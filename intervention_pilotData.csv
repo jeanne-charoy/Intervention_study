@@ -1,0 +1,91 @@
+﻿Subject,List,story,trial,recording,total words,Words missed,in %,Coder
+IP03,1,Ashley & psychics,0,pre,302,72,24,SB
+IP03,1,Cat Videos,1,pre,292,68,23,JC
+IP03,1,Cat Videos,2,post,292,53,18,JC
+IP03,1,Father & sons,3,pre,189,26,14,SB
+IP03,1,Tim's brilliant career,5,pre,282,44,16,SB
+IP03,1,Man vs. monkeys,7,pre,324,26,8,SB
+IP03,1,Shepherd boy & wolf,9,pre,268,33,12,SB
+IP03,1,Lion & mouse,11,pre,219,20,9,SB
+IP03,1,Rabbit's thesis,13,pre,361,4,1,JC
+IP03,1,Rabbit's thesis,14,post,364,5,1,JC
+IP06,1,Ashley & psychics,0,pre,302,2,1,SB
+IP06,1,Cat Videos,1,pre,292,83,28,JC
+IP06,1,Cat Videos,2,post,292,40,14,JC
+IP06,1,Father & sons,3,pre,189,36,19,SB
+IP06,1,Tim's brilliant career,5,pre,282,24,9,SB
+IP06,1,Man vs. monkeys,7,pre,324,49,15,SB
+IP06,1,Shepherd boy & wolf,9,pre,268,66,25,SB
+IP06,1,Lion & mouse,11,pre,219,22,10,SB
+IP06,1,Rabbit's thesis,13,pre,364,24,7,JC
+IP06,1,Rabbit's thesis,14,post,364,3,1,JC
+IP07,1,Ashley & psychics,0,pre,302,27,9,JC
+IP07,1,Cat Videos,1,pre,292,108,37,JC
+IP07,1,Cat Videos,2,post,292,24,8,JC
+IP07,1,Father & sons,3,pre,189,38,20,JC
+IP07,1,Tim's brilliant career,5,pre,282,42,15,SB
+IP07,1,Man vs. monkeys,7,pre,324,39,12,SB
+IP07,1,Shepherd boy & wolf,9,pre,268,66,25,SB
+IP07,1,Lion & mouse,11,pre,219,28,13,JC
+IP07,1,Rabbit's thesis,13,pre,364,24,7,JC
+IP07,1,Rabbit's thesis,14,post,364,4,1,JC
+IP09,1,Ashley & psychics,0,pre,302,1,0,JC
+IP09,1,Cat Videos,1,pre,292,55,19,JC
+IP09,1,Cat Videos,2,post,292,1,0,JC
+IP09,1,Father & sons,3,pre,189,18,10,JC
+IP09,1,Tim's brilliant career,5,pre,282,24,9,SB
+IP09,1,Man vs. monkeys,7,pre,324,32,10,SB
+IP09,1,Shepherd boy & wolf,9,pre,268,18,7,SB
+IP09,1,Lion & mouse,11,pre,219,25,11,JC
+IP09,1,Rabbit's thesis,13,pre,364,13,4,JC
+IP09,1,Rabbit's thesis,14,post,364,1,0,JC
+IP10,1,Ashley & psychics,0,pre,302,2,1,JC
+IP10,1,Cat Videos,1,pre,292,53,18,JC
+IP10,1,Cat Videos,2,post,292,10,3,JC
+IP10,1,Father & sons,3,pre,189,24,13,JC
+IP10,1,Tim's brilliant career,5,pre,282,27,10,SB
+IP10,1,Man vs. monkeys,7,pre,324,32,10,SB
+IP10,1,Shepherd boy & wolf,9,pre,268,33,12,SB
+IP10,1,Lion & mouse,11,pre,219,46,21,JC
+IP10,1,Rabbit's thesis,13,pre,364,8,2,JC
+IP10,1,Rabbit's thesis,14,post,364,7,2,JC
+IP04,2,Ashley & psychics,0,pre,302,19,6,JC
+IP04,2,Rabbit's thesis,1,pre,361,14,4,SB
+IP04,2,Lion & mouse,3,pre,219,37,17,SB
+IP04,2,Shepherd boy & wolf,5,pre,268,28,10,JC
+IP04,2,Man vs. monkeys,7,pre,324,26,8,JC
+IP04,2,Tim's brilliant career,9,pre,282,16,6,JC
+IP04,2,Father & sons,11,pre,189,7,4,SB
+IP04,2,Cat Videos,13,pre,291,21,7,SB
+IP05,2,Ashley & psychics,0,pre,302,9,3,JC
+IP05,2,Rabbit's thesis,1,pre,361,35,10,SB
+IP05,2,Lion & mouse,3,pre,219,45,21,SB
+IP05,2,Shepherd boy & wolf,5,pre,268,18,7,JC
+IP05,2,Man vs. monkeys,7,pre,324,24,7,JC
+IP05,2,Tim's brilliant career,9,pre,282,8,3,JC
+IP05,2,Father & sons,11,pre,189,4,2,SB
+IP05,2,Cat Videos,13,pre,291,25,9,SB
+IP08,2,Ashley & psychics,0,pre,302,132,44,SB
+IP08,2,Rabbit's thesis,1,pre,361,235,65,SB
+IP08,2,Lion & mouse,3,pre,219,160,73,SB
+IP08,2,Shepherd boy & wolf,5,pre,268,140,52,JC
+IP08,2,Man vs. monkeys,7,pre,324,133,41,JC
+IP08,2,Tim's brilliant career,9,pre,282,148,52,JC
+IP08,2,Father & sons,11,pre,189,112,59,SB
+IP08,2,Cat Videos,13,pre,291,160,55,SB
+IP01,0,Ashley & psychics,0,pre,302,1,0,JC
+IP01,0,Tim's brilliant career,1,pre,282,81,29,JC
+IP01,0,Father & sons,3,pre,189,33,17,JC
+IP01,0,Cat Videos,5,pre,291,79,27,JC
+IP01,0,Lion & mouse,9,pre,219,32,15,JC
+IP01,0,Man vs. monkeys,11,pre,324,35,11,JC
+IP01,0,Shepherd boy & wolf,13,pre,268,43,16,JC
+IP01,0,Rabbit's thesis,15,pre,361,13,4,JC
+IP02,0,Ashley & psychics,0,pre,302,106,35,JC
+IP02,0,Tim's brilliant career,1,pre,282,136,48,JC
+IP02,0,Father & sons,3,pre,189,50,26,JC
+IP02,0,Cat Videos,5,pre,291,182,63,JC
+IP02,0,Lion & mouse,9,pre,219,69,32,JC
+IP02,0,Man vs. monkeys,11,pre,324,72,22,JC
+IP02,0,Shepherd boy & wolf,13,pre,268,40,15,JC
+IP02,0,Rabbit's thesis,15,pre,361,39,11,JC

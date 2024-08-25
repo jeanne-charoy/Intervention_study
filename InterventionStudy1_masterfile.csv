@@ -1,0 +1,869 @@
+Subject Name,Subject ID,story.number,story.title,trial,condition,total words ,Words missed,missed %,Coder (Pre),Coder (Post),Language
+MaryClaire,IPS1_S1,7,Ashley & psychics,1,rec1,274,28,10.22,EN,EN,mono
+MaryClaire,IPS1_S1,2,Man vs. monkeys,2,rec1,291,109,37.46,EN,EN,mono
+MaryClaire,IPS1_S1,2,Man vs. monkeys,2,rec2,291,25,8.59,EN,EN,mono
+MaryClaire,IPS1_S1,3,Tim's brilliant career,3,rec1,250,97,38.8,EN,EN,mono
+MaryClaire,IPS1_S1,3,Tim's brilliant career,3,rec2,250,48,19.2,EN,EN,mono
+MaryClaire,IPS1_S1,8,Lion & mouse,4,rec1,194,61,31.44,EN,EN,mono
+MaryClaire,IPS1_S1,8,Lion & mouse,4,rec2,194,37,19.07,EN,EN,mono
+MaryClaire,IPS1_S1,4,Cat video,5,rec1,267,102,38.2,EN,EN,mono
+MaryClaire,IPS1_S1,4,Cat video,5,rec2,267,34,12.73,EN,EN,mono
+MaryClaire,IPS1_S1,1,Rabbit thesis,6,rec1,320,71,22.19,EN,EN,mono
+MaryClaire,IPS1_S1,1,Rabbit thesis,6,rec2,320,10,3.13,EN,EN,mono
+MaryClaire,IPS1_S1,9,Father & sons,7,rec1,180,31,17.22,EN,EN,mono
+MaryClaire,IPS1_S1,9,Father & sons,7,rec2,180,17,9.44,EN,EN,mono
+MaryClaire,IPS1_S1,6,Shepherd boy & wolf,8,rec1,235,66,28.09,EN,EN,mono
+Jamie,IPS1_S2,7,Ashley & psychics,1,rec1,274,16,5.84,EN,EN,mono
+Jamie,IPS1_S2,,Shepherd boy & wolf,2,rec1,235,91,38.72,EN,EN,mono
+Jamie,IPS1_S2,,Shepherd boy & wolf,2,rec2,235,29,12.34,EN,EN,mono
+Jamie,IPS1_S2,,Cat video,3,rec1,267,86,32.21,EN,EN,mono
+Jamie,IPS1_S2,,Cat video,3,rec2,267,21,7.87,EN,EN,mono
+Jamie,IPS1_S2,,Rabbit thesis,4,rec1,320,45,14.06,EN,EN,mono
+Jamie,IPS1_S2,,Rabbit thesis,4,rec2,320,14,4.38,EN,EN,mono
+Jamie,IPS1_S2,,Father & sons,5,rec1,180,35,19.44,EN,EN,mono
+Jamie,IPS1_S2,,Father & sons,5,rec2,180,7,3.89,EN,EN,mono
+Jamie,IPS1_S2,,Lion & mouse,6,rec1,194,55,28.35,EN,EN,mono
+Jamie,IPS1_S2,,Lion & mouse,6,rec2,194,7,3.61,EN,EN,mono
+Jamie,IPS1_S2,,Man vs. monkeys,7,rec1,291,38,13.06,EN,EN,mono
+Jamie,IPS1_S2,,Man vs. monkeys,7,rec2,291,18,6.19,EN,EN,mono
+Jamie,IPS1_S2,,Tim's brilliant career,8,rec1,250,44,17.6,EN,EN,mono
+Imani,IPS1_S3,7,Ashley & psychics,1,rec1,274,3,1.09,EN,EN,biling
+Imani,IPS1_S3,,Lion & mouse,2,rec1,194,74,38.14,EN,EN,biling
+Imani,IPS1_S3,,Lion & mouse,2,rec2,194,16,8.25,EN,EN,biling
+Imani,IPS1_S3,,Tim's brilliant career,3,rec1,250,84,33.6,EN,EN,biling
+Imani,IPS1_S3,,Tim's brilliant career,3,rec2,250,28,11.2,EN,EN,biling
+Imani,IPS1_S3,,Cat video,4,rec1,267,84,31.46,EN,EN,biling
+Imani,IPS1_S3,,Cat video,4,rec2,267,7,2.62,EN,EN,biling
+Imani,IPS1_S3,,Shepherd boy & wolf,5,rec1,235,51,21.7,EN,EN,biling
+Imani,IPS1_S3,,Shepherd boy & wolf,5,rec2,235,6,2.55,EN,EN,biling
+Imani,IPS1_S3,,Man vs. monkeys,6,rec1,291,33,11.34,EN,EN,biling
+Imani,IPS1_S3,,Man vs. monkeys,6,rec2,291,16,5.5,EN,EN,biling
+Imani,IPS1_S3,,Father & sons,7,rec1,180,27,15,EN,EN,biling
+Imani,IPS1_S3,,Father & sons,7,rec2,180,12,6.67,EN,EN,biling
+Imani,IPS1_S3,,Rabbit thesis,8,rec1,320,12,3.75,EN,EN,biling
+Alyssa,IPS1_S4,7,Ashley & psychics,1,rec1,274,1,0.36,EN,EN,biling
+Alyssa,IPS1_S4,,Man vs. monkeys,2,rec1,291,48,16.49,EN,EN,biling
+Alyssa,IPS1_S4,,Man vs. monkeys,2,rec2,291,8,2.75,EN,EN,biling
+Alyssa,IPS1_S4,,Cat video,3,rec1,267,60,22.47,EN,EN,biling
+Alyssa,IPS1_S4,,Cat video,3,rec2,267,13,4.87,EN,EN,biling
+Alyssa,IPS1_S4,,Rabbit thesis,4,rec1,320,17,5.31,EN,EN,biling
+Alyssa,IPS1_S4,,Rabbit thesis,4,rec2,320,8,2.5,EN,EN,biling
+Alyssa,IPS1_S4,,Father & sons,5,rec1,180,16,8.89,EN,EN,biling
+Alyssa,IPS1_S4,,Father & sons,5,rec2,180,6,3.33,EN,EN,biling
+Alyssa,IPS1_S4,,Lion & mouse,6,rec1,194,30,15.46,EN,EN,biling
+Alyssa,IPS1_S4,,Lion & mouse,6,rec2,194,7,3.61,EN,EN,biling
+Alyssa,IPS1_S4,,Shepherd boy & wolf,7,rec1,235,24,10.21,EN,EN,biling
+Alyssa,IPS1_S4,,Shepherd boy & wolf,7,rec2,235,13,5.53,EN,EN,biling
+Alyssa,IPS1_S4,,Tim's brilliant career,8,rec1,250,13,5.2,EN,EN,biling
+Yasmeen,IPS1_S5,7,Ashley & psychics,1,rec1,274,2,0.73,EN,EN,mono
+Yasmeen,IPS1_S5,,Father & sons,2,rec1,180,26,14.44,EN,EN,mono
+Yasmeen,IPS1_S5,,Father & sons,2,rec2,180,7,3.89,EN,EN,mono
+Yasmeen,IPS1_S5,,Tim's brilliant career,3,rec1,250,33,13.2,EN,EN,mono
+Yasmeen,IPS1_S5,,Tim's brilliant career,3,rec2,250,23,9.2,EN,EN,mono
+Yasmeen,IPS1_S5,,Lion & mouse,4,rec1,194,29,14.95,EN,EN,mono
+Yasmeen,IPS1_S5,,Lion & mouse,4,rec2,194,3,1.55,EN,EN,mono
+Yasmeen,IPS1_S5,,Shepherd boy & wolf,5,rec1,235,30,12.77,EN,EN,mono
+Yasmeen,IPS1_S5,,Shepherd boy & wolf,5,rec2,235,11,4.68,EN,EN,mono
+Yasmeen,IPS1_S5,,Man vs. monkeys,6,rec1,291,40,13.75,EN,EN,mono
+Yasmeen,IPS1_S5,,Man vs. monkeys,6,rec2,291,25,8.59,EN,EN,mono
+Yasmeen,IPS1_S5,,Rabbit thesis,7,rec1,320,24,7.5,EN,EN,mono
+Yasmeen,IPS1_S5,,Rabbit thesis,7,rec2,320,13,4.06,EN,EN,mono
+Yasmeen,IPS1_S5,,Cat video,8,rec1,267,32,11.99,EN,EN,mono
+Kai,IPS1_S6,7,Ashley & psychics,1,rec1,274,,100,,,biling
+Kai,IPS1_S6,,Shepherd boy & wolf,2,rec1,235,,0,,,biling
+Kai,IPS1_S6,,Shepherd boy & wolf,2,rec2,235,,0,,,biling
+Kai,IPS1_S6,,Father & sons,3,rec1,180,,0,,,biling
+Kai,IPS1_S6,,Father & sons,3,rec2,180,,0,,,biling
+Kai,IPS1_S6,,Rabbit thesis,4,rec1,320,,0,,,biling
+Kai,IPS1_S6,,Rabbit thesis,4,rec2,320,,0,,,biling
+Kai,IPS1_S6,,Tim's brilliant career,5,rec1,250,,0,,,biling
+Kai,IPS1_S6,,Tim's brilliant career,5,rec2,250,,0,,,biling
+Kai,IPS1_S6,,Man vs. monkeys,6,rec1,291,,0,,,biling
+Kai,IPS1_S6,,Man vs. monkeys,6,rec2,291,,0,,,biling
+Kai,IPS1_S6,,Cat video,7,rec1,267,,0,,,biling
+Kai,IPS1_S6,,Cat video,7,rec2,267,,0,,,biling
+Kai,IPS1_S6,,Lion & mouse,8,rec1,194,,0,,,biling
+Jenny,IPS1_S7,7,Ashley & psychics,1,rec1,274,30,10.95,JC,EN,biling
+Jenny,IPS1_S7,,Lion & mouse,2,rec1,194,89,45.88,JC,EN,biling
+Jenny,IPS1_S7,,Lion & mouse,2,rec2,194,25,12.89,JC,EN,biling
+Jenny,IPS1_S7,,Cat video,3,rec1,267,100,37.45,JC,EN,biling
+Jenny,IPS1_S7,,Cat video,3,rec2,267,44,16.48,JC,EN,biling
+Jenny,IPS1_S7,,Tim's brilliant career,4,rec1,250,54,21.6,JC,EN,biling
+Jenny,IPS1_S7,,Tim's brilliant career,4,rec2,250,20,8,JC,EN,biling
+Jenny,IPS1_S7,,Father & sons,5,rec1,180,36,20,JC,EN,biling
+Jenny,IPS1_S7,,Father & sons,5,rec2,180,3,1.67,JC,EN,biling
+Jenny,IPS1_S7,,Rabbit thesis,6,rec1,320,25,7.81,JC,EN,biling
+Jenny,IPS1_S7,,Rabbit thesis,6,rec2,320,8,2.5,JC,EN,biling
+Jenny,IPS1_S7,,Shepherd boy & wolf,7,rec1,235,37,15.74,JC,EN,biling
+Jenny,IPS1_S7,,Shepherd boy & wolf,7,rec2,235,30,12.77,JC,EN,biling
+Jenny,IPS1_S7,,Man vs. monkeys,8,rec1,291,29,9.97,JC,EN,biling
+Nyein-Chan,IPS1_S8,7,Ashley & psychics,1,rec1,274,19,6.93,JC,EN,biling
+Nyein-Chan,IPS1_S8,6,Shepherd boy & wolf,2,rec1,235,22,9.36,JC,EN,biling
+Nyein-Chan,IPS1_S8,6,Shepherd boy & wolf,2,rec2,235,5,2.13,JC,EN,biling
+Nyein-Chan,IPS1_S8,3,Tim's brilliant career,3,rec1,250,16,6.4,JC,EN,biling
+Nyein-Chan,IPS1_S8,3,Tim's brilliant career,3,rec2,250,2,0.8,JC,EN,biling
+Nyein-Chan,IPS1_S8,9,Father & sons,4,rec1,180,11,6.11,JC,EN,biling
+Nyein-Chan,IPS1_S8,9,Father & sons,4,rec2,180,0,0,JC,EN,biling
+Nyein-Chan,IPS1_S8,2,Man vs. monkeys,5,rec1,291,15,5.15,JC,EN,biling
+Nyein-Chan,IPS1_S8,2,Man vs. monkeys,5,rec2,291,2,0.69,JC,EN,biling
+Nyein-Chan,IPS1_S8,1,Rabbit thesis,6,rec1,320,9,2.81,JC,EN,biling
+Nyein-Chan,IPS1_S8,1,Rabbit thesis,6,rec2,320,5,1.56,JC,EN,biling
+Nyein-Chan,IPS1_S8,8,Lion & mouse,7,rec1,194,22,11.34,JC,EN,biling
+Nyein-Chan,IPS1_S8,8,Lion & mouse,7,rec2,194,4,2.06,JC,EN,biling
+Nyein-Chan,IPS1_S8,4,Cat video,8,rec1,267,24,8.99,JC,EN,biling
+Alessa,IPS1_S9,7,Ashley & psychics,1,rec1,274,28,10.22,JC,EN,mono
+Alessa,IPS1_S9,,Tim's brilliant career,2,rec1,250,54,21.6,JC,EN,mono
+Alessa,IPS1_S9,,Tim's brilliant career,2,rec2,250,11,4.4,JC,EN,mono
+Alessa,IPS1_S9,,Cat video,3,rec1,267,55,20.6,JC,EN,mono
+Alessa,IPS1_S9,,Cat video,3,rec2,267,14,5.24,JC,EN,mono
+Alessa,IPS1_S9,,Lion & mouse,4,rec1,194,33,17.01,JC,EN,mono
+Alessa,IPS1_S9,,Lion & mouse,4,rec2,194,2,1.03,JC,EN,mono
+Alessa,IPS1_S9,,Man vs. monkeys,5,rec1,291,25,8.59,JC,EN,mono
+Alessa,IPS1_S9,,Man vs. monkeys,5,rec2,291,6,2.06,JC,EN,mono
+Alessa,IPS1_S9,,Father & sons,6,rec1,180,13,7.22,JC,EN,mono
+Alessa,IPS1_S9,,Father & sons,6,rec2,180,8,4.44,JC,EN,mono
+Alessa,IPS1_S9,,Rabbit thesis,7,rec1,320,17,5.31,JC,EN,mono
+Alessa,IPS1_S9,,Rabbit thesis,7,rec2,320,2,0.63,JC,EN,mono
+Alessa,IPS1_S9,,Shepherd boy & wolf,8,rec1,235,42,17.87,JC,EN,mono
+Yasmine,IPS1_S10,,Ashley & psychics,1,rec1,274,,100,,,mono
+Yasmine,IPS1_S10,,Shepherd boy & wolf,2,rec1,235,,0,,,mono
+Yasmine,IPS1_S10,,Shepherd boy & wolf,2,rec2,235,,0,,,mono
+Yasmine,IPS1_S10,,Cat video,3,rec1,267,,0,,,mono
+Yasmine,IPS1_S10,,Cat video,3,rec2,267,,0,,,mono
+Yasmine,IPS1_S10,,Father & sons,4,rec1,180,,0,,,mono
+Yasmine,IPS1_S10,,Father & sons,4,rec2,180,,0,,,mono
+Yasmine,IPS1_S10,,Rabbit thesis,5,rec1,320,,0,,,mono
+Yasmine,IPS1_S10,,Rabbit thesis,5,rec2,320,,0,,,mono
+Yasmine,IPS1_S10,,Man vs. monkeys,6,rec1,291,,0,,,mono
+Yasmine,IPS1_S10,,Man vs. monkeys,6,rec2,291,,0,,,mono
+Yasmine,IPS1_S10,,Lion & mouse,7,rec1,194,,0,,,mono
+Yasmine,IPS1_S10,,Lion & mouse,7,rec2,194,,0,,,mono
+Yasmine,IPS1_S10,,Tim's brilliant career,8,rec1,250,,0,,,mono
+Annabelle,IPS1_S11,,Ashley & psychics,1,rec1,274,38,13.87,JC,EN,biling
+Annabelle,IPS1_S11,,Tim's brilliant career,2,rec1,250,42,16.8,JC,EN,biling
+Annabelle,IPS1_S11,,Tim's brilliant career,2,rec2,250,88,35.2,JC,EN,biling
+Annabelle,IPS1_S11,,Lion & mouse,3,rec1,194,55,28.35,JC,EN,biling
+Annabelle,IPS1_S11,,Lion & mouse,3,rec2,194,63,32.47,JC,EN,biling
+Annabelle,IPS1_S11,,Shepherd boy & wolf,4,rec1,235,70,29.79,JC,EN,biling
+Annabelle,IPS1_S11,,Shepherd boy & wolf,4,rec2,235,69,29.36,JC,EN,biling
+Annabelle,IPS1_S11,,Rabbit thesis,5,rec1,320,47,14.69,JC,EN,biling
+Annabelle,IPS1_S11,,Rabbit thesis,5,rec2,320,50,15.63,JC,EN,biling
+Annabelle,IPS1_S11,,Father & sons,6,rec1,180,41,22.78,JC,EN,biling
+Annabelle,IPS1_S11,,Father & sons,6,rec2,180,40,22.22,JC,EN,biling
+Annabelle,IPS1_S11,,Man vs. monkeys,7,rec1,291,57,19.59,JC,EN,biling
+Annabelle,IPS1_S11,,Man vs. monkeys,7,rec2,291,52,17.87,JC,EN,biling
+Annabelle,IPS1_S11,,Cat video,8,rec1,267,88,32.96,JC,EN,biling
+Christian,IPS1_S12,,Ashley & psychics,1,rec1,274,24,8.76,SB,EN,biling
+Christian,IPS1_S12,,Rabbit thesis,2,rec1,320,52,16.25,SB,EN,biling
+Christian,IPS1_S12,,Rabbit thesis,2,rec2,320,12,3.75,SB,EN,biling
+Christian,IPS1_S12,,Lion & mouse,3,rec1,194,28,14.43,SB,EN,biling
+Christian,IPS1_S12,,Lion & mouse,3,rec2,194,3,1.55,SB,EN,biling
+Christian,IPS1_S12,,Tim's brilliant career,4,rec1,250,32,12.8,SB,EN,biling
+Christian,IPS1_S12,,Tim's brilliant career,4,rec2,250,17,6.8,SB,EN,biling
+Christian,IPS1_S12,,Shepherd boy & wolf,5,rec1,235,22,9.36,SB,EN,biling
+Christian,IPS1_S12,,Shepherd boy & wolf,5,rec2,235,7,2.98,SB,EN,biling
+Christian,IPS1_S12,,Cat video,6,rec1,267,46,17.23,SB,EN,biling
+Christian,IPS1_S12,,Cat video,6,rec2,267,14,5.24,SB,EN,biling
+Christian,IPS1_S12,,Man vs. monkeys,7,rec1,291,31,10.65,SB,EN,biling
+Christian,IPS1_S12,,Man vs. monkeys,7,rec2,291,9,3.09,SB,EN,biling
+Christian,IPS1_S12,,Father & sons,8,rec1,180,11,6.11,SB,EN,biling
+Jaysi,IPS1_S13,,Ashley & psychics,1,rec1,274,5,1.82,SB,EN,biling
+Jaysi,IPS1_S13,,Rabbit thesis,2,rec1,320,32,10,SB,EN,biling
+Jaysi,IPS1_S13,,Rabbit thesis,2,rec2,320,5,1.56,SB,EN,biling
+Jaysi,IPS1_S13,,Shepherd boy & wolf,3,rec1,235,39,16.6,SB,EN,biling
+Jaysi,IPS1_S13,,Shepherd boy & wolf,3,rec2,235,9,3.83,SB,EN,biling
+Jaysi,IPS1_S13,,Cat video,4,rec1,267,100,37.45,SB,EN,biling
+Jaysi,IPS1_S13,,Cat video,4,rec2,267,9,3.37,SB,EN,biling
+Jaysi,IPS1_S13,,Tim's brilliant career,5,rec1,250,48,19.2,SB,EN,biling
+Jaysi,IPS1_S13,,Tim's brilliant career,5,rec2,250,17,6.8,SB,EN,biling
+Jaysi,IPS1_S13,,Lion & mouse,6,rec1,194,48,24.74,SB,EN,biling
+Jaysi,IPS1_S13,,Lion & mouse,6,rec2,194,3,1.55,SB,EN,biling
+Jaysi,IPS1_S13,,Father & sons,7,rec1,180,38,21.11,SB,EN,biling
+Jaysi,IPS1_S13,,Father & sons,7,rec2,180,2,1.11,SB,EN,biling
+Jaysi,IPS1_S13,,Man vs. monkeys,8,rec1,291,27,9.28,SB,EN,biling
+Danny,IPS1_S14,,Ashley & psychics,1,rec1,274,12,4.38,SB,EN,mono
+Danny,IPS1_S14,,Lion & mouse,2,rec1,194,73,37.63,SB,EN,mono
+Danny,IPS1_S14,,Lion & mouse,2,rec2,194,20,10.31,SB,EN,mono
+Danny,IPS1_S14,,Father & sons,3,rec1,180,40,22.22,SB,EN,mono
+Danny,IPS1_S14,,Father & sons,3,rec2,180,4,2.22,SB,EN,mono
+Danny,IPS1_S14,,Shepherd boy & wolf,4,rec1,235,32,13.62,SB,EN,mono
+Danny,IPS1_S14,,Shepherd boy & wolf,4,rec2,235,13,5.53,SB,EN,mono
+Danny,IPS1_S14,,Cat video,5,rec1,267,53,19.85,SB,EN,mono
+Danny,IPS1_S14,,Cat video,5,rec2,267,21,7.87,SB,EN,mono
+Danny,IPS1_S14,,Tim's brilliant career,6,rec1,250,39,15.6,SB,EN,mono
+Danny,IPS1_S14,,Tim's brilliant career,6,rec2,250,20,8,SB,EN,mono
+Danny,IPS1_S14,,Rabbit thesis,7,rec1,320,24,7.5,SB,EN,mono
+Danny,IPS1_S14,,Rabbit thesis,7,rec2,320,17,5.31,SB,EN,mono
+Danny,IPS1_S14,,Man vs. monkeys,8,rec1,291,32,11,SB,EN,mono
+Jared,IPS1_S15,,Ashley & psychics,1,rec1,274,14,5.11,SB,EN,biling
+Jared,IPS1_S15,,Rabbit thesis,2,rec1,320,70,21.88,SB,EN,biling
+Jared,IPS1_S15,,Rabbit thesis,2,rec2,320,19,5.94,SB,EN,biling
+Jared,IPS1_S15,,Cat video,3,rec1,267,100,37.45,SB,EN,biling
+Jared,IPS1_S15,,Cat video,3,rec2,267,24,8.99,SB,EN,biling
+Jared,IPS1_S15,,Man vs. monkeys,4,rec1,291,53,18.21,SB,EN,biling
+Jared,IPS1_S15,,Man vs. monkeys,4,rec2,291,33,11.34,SB,EN,biling
+Jared,IPS1_S15,,Tim's brilliant career,5,rec1,250,40,16,SB,EN,biling
+Jared,IPS1_S15,,Tim's brilliant career,5,rec2,250,26,10.4,SB,EN,biling
+Jared,IPS1_S15,,Shepherd boy & wolf,6,rec1,235,44,18.72,SB,EN,biling
+Jared,IPS1_S15,,Shepherd boy & wolf,6,rec2,235,,0,SB,EN,biling
+Jared,IPS1_S15,,Lion & mouse,7,rec1,194,54,27.84,SB,EN,biling
+Jared,IPS1_S15,,Lion & mouse,7,rec2,194,14,7.22,SB,EN,biling
+Jared,IPS1_S15,,Father & sons,8,rec1,180,47,26.11,SB,EN,biling
+William,IPS1_S16,,Ashley & psychics,1,rec1,274,19,6.93,SB,EN,mono
+William,IPS1_S16,,Father & sons,2,rec1,180,54,30,SB,EN,mono
+William,IPS1_S16,,Father & sons,2,rec2,180,27,15,SB,EN,mono
+William,IPS1_S16,,Man vs. monkeys,3,rec1,291,67,23.02,SB,EN,mono
+William,IPS1_S16,,Man vs. monkeys,3,rec2,291,19,6.53,SB,EN,mono
+William,IPS1_S16,,Shepherd boy & wolf,4,rec1,235,60,25.53,SB,EN,mono
+William,IPS1_S16,,Shepherd boy & wolf,4,rec2,235,23,9.79,SB,EN,mono
+William,IPS1_S16,,Lion & mouse,5,rec1,194,63,32.47,SB,EN,mono
+William,IPS1_S16,,Lion & mouse,5,rec2,194,20,10.31,SB,EN,mono
+William,IPS1_S16,,Cat video,6,rec1,267,73,27.34,SB,EN,mono
+William,IPS1_S16,,Cat video,6,rec2,267,28,10.49,SB,EN,mono
+William,IPS1_S16,,Tim's brilliant career,7,rec1,250,44,17.6,SB,EN,mono
+William,IPS1_S16,,Tim's brilliant career,7,rec2,250,17,6.8,SB,EN,mono
+William,IPS1_S16,,Rabbit thesis,8,rec1,320,24,7.5,SB,EN,mono
+Maryam,IPS1_S17,,Ashley & psychics,1,rec1,274,3,1.09,SB,EN,biling
+Maryam,IPS1_S17,,Cat video,2,rec1,267,43,16.1,SB,EN,biling
+Maryam,IPS1_S17,,Cat video,2,rec2,267,25,9.36,SB,EN,biling
+Maryam,IPS1_S17,,Shepherd boy & wolf,3,rec1,235,51,21.7,SB,EN,biling
+Maryam,IPS1_S17,,Shepherd boy & wolf,3,rec2,235,8,3.4,SB,EN,biling
+Maryam,IPS1_S17,,Father & sons,4,rec1,180,18,10,SB,EN,biling
+Maryam,IPS1_S17,,Father & sons,4,rec2,180,5,2.78,SB,EN,biling
+Maryam,IPS1_S17,,Lion & mouse,5,rec1,194,43,22.16,SB,EN,biling
+Maryam,IPS1_S17,,Lion & mouse,5,rec2,194,8,4.12,SB,EN,biling
+Maryam,IPS1_S17,,Tim's brilliant career,6,rec1,250,25,10,SB,EN,biling
+Maryam,IPS1_S17,,Tim's brilliant career,6,rec2,250,7,2.8,SB,EN,biling
+Maryam,IPS1_S17,,Man vs. monkeys,7,rec1,291,30,10.31,SB,EN,biling
+Maryam,IPS1_S17,,Man vs. monkeys,7,rec2,291,13,4.47,SB,EN,biling
+Maryam,IPS1_S17,,Rabbit thesis,8,rec1,320,23,7.19,SB,EN,biling
+Khushi,IPS1_S18,,,1,rec1,,,,,,
+Khushi,IPS1_S18,,,2,rec1,,,,,,
+Khushi,IPS1_S18,,,2,rec2,,,,,,
+Khushi,IPS1_S18,,,3,rec1,,,,,,
+Khushi,IPS1_S18,,,3,rec2,,,,,,
+Khushi,IPS1_S18,,,4,rec1,,,,,,
+Khushi,IPS1_S18,,,4,rec2,,,,,,
+Khushi,IPS1_S18,,,5,rec1,,,,,,
+Khushi,IPS1_S18,,,5,rec2,,,,,,
+Khushi,IPS1_S18,,,6,rec1,,,,,,
+Khushi,IPS1_S18,,,6,rec2,,,,,,
+Khushi,IPS1_S18,,,7,rec1,,,,,,
+Khushi,IPS1_S18,,,7,rec2,,,,,,
+Khushi,IPS1_S18,,,8,rec1,,,,,,
+Daniel ,IPS1_S19,7,Ashley & psychics,1,rec1,274,0,0,JC,EN,biling
+Daniel ,IPS1_S19,,Cat video,2,rec1,267,55,20.6,JC,EN,biling
+Daniel ,IPS1_S19,,Cat video,2,rec2,267,25,9.36,JC,EN,biling
+Daniel ,IPS1_S19,,Man vs. monkeys,3,rec1,291,19,6.53,JC,EN,biling
+Daniel ,IPS1_S19,,Man vs. monkeys,3,rec2,291,13,4.47,JC,EN,biling
+Daniel ,IPS1_S19,,Tim's brilliant career,4,rec1,250,21,8.4,JC,EN,biling
+Daniel ,IPS1_S19,,Tim's brilliant career,4,rec2,250,11,4.4,JC,EN,biling
+Daniel ,IPS1_S19,,Father & sons,5,rec1,180,13,7.22,JC,EN,biling
+Daniel ,IPS1_S19,,Father & sons,5,rec2,180,3,1.67,JC,EN,biling
+Daniel ,IPS1_S19,,Rabbit thesis,6,rec1,320,10,3.13,JC,EN,biling
+Daniel ,IPS1_S19,,Rabbit thesis,6,rec2,320,7,2.19,JC,EN,biling
+Daniel ,IPS1_S19,,Shepherd boy & wolf,7,rec1,235,33,14.04,JC,EN,biling
+Daniel ,IPS1_S19,,Shepherd boy & wolf,7,rec2,235,17,7.23,JC,EN,biling
+Daniel ,IPS1_S19,,Lion & mouse,8,rec1,194,24,12.37,JC,EN,biling
+Nicole,IPS1_S20,7,Ashley & psychics,1,rec1,274,72,26.28,,,biling
+Nicole,IPS1_S20,,Shepherd boy & wolf,2,rec1,235,,0,,,biling
+Nicole,IPS1_S20,,Shepherd boy & wolf,2,rec2,235,,0,,,biling
+Nicole,IPS1_S20,,Rabbit thesis,3,rec1,320,,0,,,biling
+Nicole,IPS1_S20,,Rabbit thesis,3,rec2,320,,0,,,biling
+Nicole,IPS1_S20,,Man vs. monkeys,4,rec1,291,,0,,,biling
+Nicole,IPS1_S20,,Man vs. monkeys,4,rec2,291,,0,,,biling
+Nicole,IPS1_S20,,Lion & mouse,5,rec1,194,,0,,,biling
+Nicole,IPS1_S20,,Lion & mouse,5,rec2,194,,0,,,biling
+Nicole,IPS1_S20,,Tim's brilliant career,6,rec1,250,,0,,,biling
+Nicole,IPS1_S20,,Tim's brilliant career,6,rec2,250,,0,,,biling
+Nicole,IPS1_S20,,Father & sons,7,rec1,180,,0,,,biling
+Nicole,IPS1_S20,,Father & sons,7,rec2,180,,0,,,biling
+Nicole,IPS1_S20,,Cat video,8,rec1,267,,0,,,biling
+Michelle,IPS1_S21,7,Ashley & psychics,1,rec1,274,7,2.55,EN,EN,biling
+Michelle,IPS1_S21,,Cat video,2,rec1,267,71,26.59,EN,EN,biling
+Michelle,IPS1_S21,,Cat video,2,rec2,267,20,7.49,EN,EN,biling
+Michelle,IPS1_S21,,Rabbit thesis,3,rec1,320,31,9.69,EN,EN,biling
+Michelle,IPS1_S21,,Rabbit thesis,3,rec2,320,10,3.13,EN,EN,biling
+Michelle,IPS1_S21,,Man vs. monkeys,4,rec1,291,31,10.65,EN,EN,biling
+Michelle,IPS1_S21,,Man vs. monkeys,4,rec2,291,8,2.75,EN,EN,biling
+Michelle,IPS1_S21,,Lion & mouse,5,rec1,194,31,15.98,EN,EN,biling
+Michelle,IPS1_S21,,Lion & mouse,5,rec2,194,13,6.7,EN,EN,biling
+Michelle,IPS1_S21,,Father & sons,6,rec1,180,28,15.56,EN,EN,biling
+Michelle,IPS1_S21,,Father & sons,6,rec2,180,7,3.89,EN,EN,biling
+Michelle,IPS1_S21,,Shepherd boy & wolf,7,rec1,235,43,18.3,EN,EN,biling
+Michelle,IPS1_S21,,Shepherd boy & wolf,7,rec2,235,13,5.53,EN,EN,biling
+Michelle,IPS1_S21,,Tim's brilliant career,8,rec1,250,30,12,EN,EN,biling
+Tulsi,IPS1_S22,7,Ashley & psychics,1,rec1,274,3,1.09,EN,EN,biling
+Tulsi,IPS1_S22,,Tim's brilliant career,2,rec1,250,82,32.8,EN,EN,biling
+Tulsi,IPS1_S22,,Tim's brilliant career,2,rec2,250,25,10,EN,EN,biling
+Tulsi,IPS1_S22,,Man vs. monkeys,3,rec1,291,73,25.09,EN,EN,biling
+Tulsi,IPS1_S22,,Man vs. monkeys,3,rec2,291,12,4.12,EN,EN,biling
+Tulsi,IPS1_S22,,Father & sons,4,rec1,180,39,21.67,EN,EN,biling
+Tulsi,IPS1_S22,,Father & sons,4,rec2,180,6,3.33,EN,EN,biling
+Tulsi,IPS1_S22,,Cat video,5,rec1,267,98,36.7,EN,EN,biling
+Tulsi,IPS1_S22,,Cat video,5,rec2,267,12,4.49,EN,EN,biling
+Tulsi,IPS1_S22,,Rabbit thesis,6,rec1,320,63,19.69,EN,EN,biling
+Tulsi,IPS1_S22,,Rabbit thesis,6,rec2,320,18,5.63,EN,EN,biling
+Tulsi,IPS1_S22,,Lion & mouse,7,rec1,194,38,19.59,EN,EN,biling
+Tulsi,IPS1_S22,,Lion & mouse,7,rec2,194,18,9.28,EN,EN,biling
+Tulsi,IPS1_S22,,Shepherd boy & wolf,8,rec1,235,83,35.32,EN,EN,biling
+Angela,IPS1_S23,7,Ashley & psychics,1,rec1,274,12,4.38,EN,EN,bilingMandarin
+Angela,IPS1_S23,,Father & sons,2,rec1,180,87,48.33,EN,EN,bilingMandarin
+Angela,IPS1_S23,,Father & sons,2,rec2,180,25,13.89,EN,EN,bilingMandarin
+Angela,IPS1_S23,,Lion & mouse,3,rec1,194,78,40.21,EN,EN,bilingMandarin
+Angela,IPS1_S23,,Lion & mouse,3,rec2,194,32,16.49,EN,EN,bilingMandarin
+Angela,IPS1_S23,,Tim's brilliant career,4,rec1,250,74,29.6,EN,EN,bilingMandarin
+Angela,IPS1_S23,,Tim's brilliant career,4,rec2,250,30,12,EN,EN,bilingMandarin
+Angela,IPS1_S23,,Cat video,5,rec1,267,122,45.69,EN,EN,bilingMandarin
+Angela,IPS1_S23,,Cat video,5,rec2,267,34,12.73,EN,EN,bilingMandarin
+Angela,IPS1_S23,,Shepherd boy & wolf,6,rec1,235,64,27.23,EN,EN,bilingMandarin
+Angela,IPS1_S23,,Shepherd boy & wolf,6,rec2,235,23,9.79,EN,EN,bilingMandarin
+Angela,IPS1_S23,,Rabbit thesis,7,rec1,320,76,23.75,EN,EN,bilingMandarin
+Angela,IPS1_S23,,Rabbit thesis,7,rec2,320,18,5.63,EN,EN,bilingMandarin
+Angela,IPS1_S23,,Man vs. monkeys,8,rec1,291,62,21.31,EN,EN,bilingMandarin
+Ling,IPS1_S24,7,Ashley & psychics,1,rec1,274,21,7.66,EN,EN,bilingMandarin
+Ling,IPS1_S24,,Rabbit thesis,2,rec1,320,69,21.56,EN,EN,bilingMandarin
+Ling,IPS1_S24,,Rabbit thesis,2,rec2,320,13,4.06,EN,EN,bilingMandarin
+Ling,IPS1_S24,,Shepherd boy & wolf,3,rec1,235,75,31.91,EN,EN,bilingMandarin
+Ling,IPS1_S24,,Shepherd boy & wolf,3,rec2,235,35,14.89,EN,EN,bilingMandarin
+Ling,IPS1_S24,,Man vs. monkeys,4,rec1,291,68,23.37,EN,EN,bilingMandarin
+Ling,IPS1_S24,,Man vs. monkeys,4,rec2,291,25,8.59,EN,EN,bilingMandarin
+Ling,IPS1_S24,,Tim's brilliant career,5,rec1,250,68,27.2,EN,EN,bilingMandarin
+Ling,IPS1_S24,,Tim's brilliant career,5,rec2,250,13,5.2,EN,EN,bilingMandarin
+Ling,IPS1_S24,,Cat video,6,rec1,267,95,35.58,EN,EN,bilingMandarin
+Ling,IPS1_S24,,Cat video,6,rec2,267,46,17.23,EN,EN,bilingMandarin
+Ling,IPS1_S24,,Father & sons,7,rec1,180,41,22.78,EN,EN,bilingMandarin
+Ling,IPS1_S24,,Father & sons,7,rec2,180,9,5,EN,EN,bilingMandarin
+Ling,IPS1_S24,,Lion & mouse,8,rec1,194,63,32.47,EN,EN,bilingMandarin
+Aproova,IPS1_S25,,,1,rec1,,,100,,,
+Aproova,IPS1_S25,,,2,rec1,,,,,,
+Aproova,IPS1_S25,,,2,rec2,,,,,,
+Aproova,IPS1_S25,,,3,rec1,,,,,,
+Aproova,IPS1_S25,,,3,rec2,,,,,,
+Aproova,IPS1_S25,,,4,rec1,,,,,,
+Aproova,IPS1_S25,,,4,rec2,,,,,,
+Aproova,IPS1_S25,,,5,rec1,,,,,,
+Aproova,IPS1_S25,,,5,rec2,,,,,,
+Aproova,IPS1_S25,,,6,rec1,,,,,,
+Aproova,IPS1_S25,,,6,rec2,,,,,,
+Aproova,IPS1_S25,,,7,rec1,,,,,,
+Aproova,IPS1_S25,,,7,rec2,,,,,,
+Aproova,IPS1_S25,,,8,rec1,,,,,,
+Fahima,IPS1_S26,7,Ashley & psychics,1,rec1,274,5,1.82,EN,EN,biling
+Fahima,IPS1_S26,,Father & sons,2,rec1,180,57,31.67,EN,EN,biling
+Fahima,IPS1_S26,,Father & sons,2,rec2,180,12,6.67,EN,EN,biling
+Fahima,IPS1_S26,,Lion & mouse,3,rec1,194,47,24.23,EN,EN,biling
+Fahima,IPS1_S26,,Lion & mouse,3,rec2,194,7,3.61,EN,EN,biling
+Fahima,IPS1_S26,,Tim's brilliant career,4,rec1,250,34,13.6,EN,EN,biling
+Fahima,IPS1_S26,,Tim's brilliant career,4,rec2,250,12,4.8,EN,EN,biling
+Fahima,IPS1_S26,,Shepherd boy & wolf,5,rec1,235,40,17.02,EN,EN,biling
+Fahima,IPS1_S26,,Shepherd boy & wolf,5,rec2,235,13,5.53,EN,EN,biling
+Fahima,IPS1_S26,,Cat video,6,rec1,267,51,19.1,EN,EN,biling
+Fahima,IPS1_S26,,Cat video,6,rec2,267,20,7.49,EN,EN,biling
+Fahima,IPS1_S26,,Rabbit thesis,7,rec1,320,28,8.75,EN,EN,biling
+Fahima,IPS1_S26,,Rabbit thesis,7,rec2,320,10,3.13,EN,EN,biling
+Fahima,IPS1_S26,,Man vs. monkeys,8,rec1,291,29,9.97,EN,EN,biling
+Brandon,IPS1_S27,7,Ashley & psychics,1,rec1,274,11,4.01,EN,EN,bilingMandarin
+Brandon,IPS1_S27,,Father & sons,2,rec1,180,31,17.22,EN,EN,bilingMandarin
+Brandon,IPS1_S27,,Father & sons,2,rec2,180,12,6.67,EN,EN,bilingMandarin
+Brandon,IPS1_S27,,Lion & mouse,3,rec1,194,39,20.1,EN,EN,bilingMandarin
+Brandon,IPS1_S27,,Lion & mouse,3,rec2,194,2,1.03,EN,EN,bilingMandarin
+Brandon,IPS1_S27,,Cat video,4,rec1,267,58,21.72,EN,EN,bilingMandarin
+Brandon,IPS1_S27,,Cat video,4,rec2,267,27,10.11,EN,EN,bilingMandarin
+Brandon,IPS1_S27,,Shepherd boy & wolf,5,rec1,235,37,15.74,EN,EN,bilingMandarin
+Brandon,IPS1_S27,,Shepherd boy & wolf,5,rec2,235,19,8.09,EN,EN,bilingMandarin
+Brandon,IPS1_S27,,Tim's brilliant career,6,rec1,250,57,22.8,EN,EN,bilingMandarin
+Brandon,IPS1_S27,,Tim's brilliant career,6,rec2,250,33,13.2,EN,EN,bilingMandarin
+Brandon,IPS1_S27,,Rabbit thesis,7,rec1,320,27,8.44,EN,EN,bilingMandarin
+Brandon,IPS1_S27,,Rabbit thesis,7,rec2,320,21,6.56,EN,EN,bilingMandarin
+Brandon,IPS1_S27,,Man vs. monkeys,8,rec1,291,48,16.49,EN,EN,bilingMandarin
+Evelyn,IPS1_S28,7,Ashley & psychics,1,rec1,274,42,15.33,EN,EN,biling
+Evelyn,IPS1_S28,,Cat video,2,rec1,267,174,65.17,EN,EN,biling
+Evelyn,IPS1_S28,,Cat video,2,rec2,267,101,37.83,EN,EN,biling
+Evelyn,IPS1_S28,,Man vs. monkeys,3,rec1,291,79,27.15,EN,EN,biling
+Evelyn,IPS1_S28,,Man vs. monkeys,3,rec2,291,54,18.56,EN,EN,biling
+Evelyn,IPS1_S28,,Father & sons,4,rec1,180,71,39.44,EN,EN,biling
+Evelyn,IPS1_S28,,Father & sons,4,rec2,180,29,16.11,EN,EN,biling
+Evelyn,IPS1_S28,,Rabbit thesis,5,rec1,320,103,32.19,EN,EN,biling
+Evelyn,IPS1_S28,,Rabbit thesis,5,rec2,320,45,14.06,EN,EN,biling
+Evelyn,IPS1_S28,,Tim's brilliant career,6,rec1,250,88,35.2,EN,EN,biling
+Evelyn,IPS1_S28,,Tim's brilliant career,6,rec2,250,47,18.8,EN,EN,biling
+Evelyn,IPS1_S28,,Shepherd boy & wolf,7,rec1,235,98,41.7,EN,EN,biling
+Evelyn,IPS1_S28,,Shepherd boy & wolf,7,rec2,235,58,24.68,EN,EN,biling
+Evelyn,IPS1_S28,,Lion & mouse,8,rec1,194,91,46.91,EN,EN,biling
+Melanie,IPS1_S29,7,Ashley & psychics,1,rec1,274,0,0,EN,EN,mono
+Melanie,IPS1_S29,,Man vs. monkeys,2,rec1,291,52,17.87,EN,EN,mono
+Melanie,IPS1_S29,,Man vs. monkeys,2,rec2,291,4,1.37,EN,EN,mono
+Melanie,IPS1_S29,,Shepherd boy & wolf,3,rec1,235,17,7.23,EN,EN,mono
+Melanie,IPS1_S29,,Shepherd boy & wolf,3,rec2,235,3,1.28,EN,EN,mono
+Melanie,IPS1_S29,,Lion & mouse,4,rec1,194,36,18.56,EN,EN,mono
+Melanie,IPS1_S29,,Lion & mouse,4,rec2,194,3,1.55,EN,EN,mono
+Melanie,IPS1_S29,,Rabbit thesis,5,rec1,320,12,3.75,EN,EN,mono
+Melanie,IPS1_S29,,Rabbit thesis,5,rec2,320,2,0.63,EN,EN,mono
+Melanie,IPS1_S29,,Father & sons,6,rec1,180,16,8.89,EN,EN,mono
+Melanie,IPS1_S29,,Father & sons,6,rec2,180,4,2.22,EN,EN,mono
+Melanie,IPS1_S29,,Cat video,7,rec1,267,48,17.98,EN,EN,mono
+Melanie,IPS1_S29,,Cat video,7,rec2,267,6,2.25,EN,EN,mono
+Melanie,IPS1_S29,,Tim's brilliant career,8,rec1,250,27,10.8,EN,EN,mono
+Erika,IPS1_S30,7,Ashley & psychics,1,rec1,274,71,25.91,,,bilingMandarin
+Erika,IPS1_S30,,Lion & mouse,2,rec1,194,,0,,,bilingMandarin
+Erika,IPS1_S30,,Lion & mouse,2,rec2,194,,0,,,bilingMandarin
+Erika,IPS1_S30,,Rabbit thesis,3,rec1,320,,0,,,bilingMandarin
+Erika,IPS1_S30,,Rabbit thesis,3,rec2,320,,0,,,bilingMandarin
+Erika,IPS1_S30,,Shepherd boy & wolf,4,rec1,235,,0,,,bilingMandarin
+Erika,IPS1_S30,,Shepherd boy & wolf,4,rec2,235,,0,,,bilingMandarin
+Erika,IPS1_S30,,Tim's brilliant career,5,rec1,250,,0,,,bilingMandarin
+Erika,IPS1_S30,,Tim's brilliant career,5,rec2,250,,0,,,bilingMandarin
+Erika,IPS1_S30,,Man vs. monkeys,6,rec1,291,,0,,,bilingMandarin
+Erika,IPS1_S30,,Man vs. monkeys,6,rec2,291,,0,,,bilingMandarin
+Erika,IPS1_S30,,Cat video,7,rec1,267,,0,,,bilingMandarin
+Erika,IPS1_S30,,Cat video,7,rec2,267,,0,,,bilingMandarin
+Erika,IPS1_S30,,Father & sons,8,rec1,180,,0,,,bilingMandarin
+Julianna,IPS1_S31,7,Ashley & psychics,1,rec1,274,8,2.92,EN,EN,mono
+Julianna,IPS1_S31,,Man vs. monkeys,2,rec1,291,41,14.09,EN,EN,mono
+Julianna,IPS1_S31,,Man vs. monkeys,2,rec2,291,14,4.81,EN,EN,mono
+Julianna,IPS1_S31,,Rabbit thesis,3,rec1,320,26,8.13,EN,EN,mono
+Julianna,IPS1_S31,,Rabbit thesis,3,rec2,320,3,0.94,EN,EN,mono
+Julianna,IPS1_S31,,Father & sons,4,rec1,180,28,15.56,EN,EN,mono
+Julianna,IPS1_S31,,Father & sons,4,rec2,180,4,2.22,EN,EN,mono
+Julianna,IPS1_S31,,Tim's brilliant career,5,rec1,250,23,9.2,EN,EN,mono
+Julianna,IPS1_S31,,Tim's brilliant career,5,rec2,250,7,2.8,EN,EN,mono
+Julianna,IPS1_S31,,Cat video,6,rec1,267,45,16.85,EN,EN,mono
+Julianna,IPS1_S31,,Cat video,6,rec2,267,20,7.49,EN,EN,mono
+Julianna,IPS1_S31,,Shepherd boy & wolf,7,rec1,235,34,14.47,EN,EN,mono
+Julianna,IPS1_S31,,Shepherd boy & wolf,7,rec2,235,12,5.11,EN,EN,mono
+Julianna,IPS1_S31,,Lion & mouse,8,rec1,194,20,10.31,EN,EN,mono
+Evelyn,IPS1_S32,7,Ashley & psychics,1,rec1,274,5,1.82,EN,EN,biling
+Evelyn,IPS1_S32,,Man vs. monkeys,2,rec1,291,73,25.09,EN,EN,biling
+Evelyn,IPS1_S32,,Man vs. monkeys,2,rec2,291,28,9.62,EN,EN,biling
+Evelyn,IPS1_S32,,Father & sons,3,rec1,180,56,31.11,EN,EN,biling
+Evelyn,IPS1_S32,,Father & sons,3,rec2,180,27,15,EN,EN,biling
+Evelyn,IPS1_S32,,Tim's brilliant career,4,rec1,250,56,22.4,EN,EN,biling
+Evelyn,IPS1_S32,,Tim's brilliant career,4,rec2,250,36,14.4,EN,EN,biling
+Evelyn,IPS1_S32,,Cat video,5,rec1,267,84,31.46,EN,EN,biling
+Evelyn,IPS1_S32,,Cat video,5,rec2,267,43,16.1,EN,EN,biling
+Evelyn,IPS1_S32,,Lion & mouse,6,rec1,194,59,30.41,EN,EN,biling
+Evelyn,IPS1_S32,,Lion & mouse,6,rec2,194,29,14.95,EN,EN,biling
+Evelyn,IPS1_S32,,Shepherd boy & wolf,7,rec1,235,63,26.81,EN,EN,biling
+Evelyn,IPS1_S32,,Shepherd boy & wolf,7,rec2,235,26,11.06,EN,EN,biling
+Evelyn,IPS1_S32,,Rabbit thesis,8,rec1,320,46,14.38,EN,EN,biling
+Jacquelyn,IPS1_S33,7,Ashley & psychics,1,rec1,274,8,2.92,EN,EN,bilingMandarin
+Jacquelyn,IPS1_S33,,Lion & mouse,2,rec1,194,24,12.37,EN,EN,bilingMandarin
+Jacquelyn,IPS1_S33,,Lion & mouse,2,rec2,194,13,6.7,EN,EN,bilingMandarin
+Jacquelyn,IPS1_S33,,Father & sons,3,rec1,180,21,11.67,EN,EN,bilingMandarin
+Jacquelyn,IPS1_S33,,Father & sons,3,rec2,180,9,5,EN,EN,bilingMandarin
+Jacquelyn,IPS1_S33,,Rabbit thesis,4,rec1,320,40,12.5,EN,EN,bilingMandarin
+Jacquelyn,IPS1_S33,,Rabbit thesis,4,rec2,320,38,11.88,EN,EN,bilingMandarin
+Jacquelyn,IPS1_S33,,Shepherd boy & wolf,5,rec1,235,23,9.79,EN,EN,bilingMandarin
+Jacquelyn,IPS1_S33,,Shepherd boy & wolf,5,rec2,235,22,9.36,EN,EN,bilingMandarin
+Jacquelyn,IPS1_S33,,Cat video,6,rec1,267,34,12.73,EN,EN,bilingMandarin
+Jacquelyn,IPS1_S33,,Cat video,6,rec2,267,26,9.74,EN,EN,bilingMandarin
+Jacquelyn,IPS1_S33,,Tim's brilliant career,7,rec1,250,33,13.2,EN,EN,bilingMandarin
+Jacquelyn,IPS1_S33,,Tim's brilliant career,7,rec2,250,26,10.4,EN,EN,bilingMandarin
+Jacquelyn,IPS1_S33,,Man vs. monkeys,8,rec1,291,26,8.93,EN,EN,bilingMandarin
+Manny,IPS1_S34,7,Ashley & psychics,1,rec1,274,15,5.47,JC,EN,biling
+Manny,IPS1_S34,,Shepherd boy & wolf,2,rec1,235,67,28.51,JC,EN,biling
+Manny,IPS1_S34,,Shepherd boy & wolf,2,rec2,235,16,6.81,JC,EN,biling
+Manny,IPS1_S34,,Lion & mouse,3,rec1,194,99,51.03,JC,EN,biling
+Manny,IPS1_S34,,Lion & mouse,3,rec2,194,22,11.34,JC,EN,biling
+Manny,IPS1_S34,,Father & sons,4,rec1,180,53,29.44,JC,EN,biling
+Manny,IPS1_S34,,Father & sons,4,rec2,180,10,5.56,JC,EN,biling
+Manny,IPS1_S34,,Man vs. monkeys,5,rec1,291,61,20.96,JC,EN,biling
+Manny,IPS1_S34,,Man vs. monkeys,5,rec2,291,10,3.44,JC,EN,biling
+Manny,IPS1_S34,,Rabbit thesis,6,rec1,320,39,12.19,JC,EN,biling
+Manny,IPS1_S34,,Rabbit thesis,6,rec2,320,13,4.06,JC,EN,biling
+Manny,IPS1_S34,,Tim's brilliant career,7,rec1,250,34,13.6,JC,EN,biling
+Manny,IPS1_S34,,Tim's brilliant career,7,rec2,250,21,8.4,JC,EN,biling
+Manny,IPS1_S34,,Cat video,8,rec1,267,72,26.97,JC,EN,biling
+Kobe,IPS1_S35,7,Ashley & psychics,1,rec1,274,3,1.09,JC,EN,biling
+Kobe,IPS1_S35,,Lion & mouse,2,rec1,194,66,34.02,JC,EN,biling
+Kobe,IPS1_S35,,Lion & mouse,2,rec2,194,5,2.58,JC,EN,biling
+Kobe,IPS1_S35,,Father & sons,3,rec1,180,33,18.33,JC,EN,biling
+Kobe,IPS1_S35,,Father & sons,3,rec2,180,4,2.22,JC,EN,biling
+Kobe,IPS1_S35,,Rabbit thesis,4,rec1,320,14,4.38,JC,EN,biling
+Kobe,IPS1_S35,,Rabbit thesis,4,rec2,320,10,3.13,JC,EN,biling
+Kobe,IPS1_S35,,Cat video,5,rec1,267,21,7.87,JC,EN,biling
+Kobe,IPS1_S35,,Cat video,5,rec2,267,12,4.49,JC,EN,biling
+Kobe,IPS1_S35,,Man vs. monkeys,6,rec1,291,17,5.84,JC,EN,biling
+Kobe,IPS1_S35,,Man vs. monkeys,6,rec2,291,9,3.09,JC,EN,biling
+Kobe,IPS1_S35,,Tim's brilliant career,7,rec1,250,14,5.6,JC,EN,biling
+Kobe,IPS1_S35,,Tim's brilliant career,7,rec2,250,9,3.6,JC,EN,biling
+Kobe,IPS1_S35,,Shepherd boy & wolf,8,rec1,235,19,8.09,JC,EN,biling
+Kimberly,IPS1_S36,7,Ashley & psychics,1,rec1,274,75,27.37,,,biling
+Kimberly,IPS1_S36,,Tim's brilliant career,2,rec1,250,,0,,,biling
+Kimberly,IPS1_S36,,Tim's brilliant career,2,rec2,250,,0,,,biling
+Kimberly,IPS1_S36,,Man vs. monkeys,3,rec1,291,,0,,,biling
+Kimberly,IPS1_S36,,Man vs. monkeys,3,rec2,291,,0,,,biling
+Kimberly,IPS1_S36,,Rabbit thesis,4,rec1,320,,0,,,biling
+Kimberly,IPS1_S36,,Rabbit thesis,4,rec2,320,,0,,,biling
+Kimberly,IPS1_S36,,Father & sons,5,rec1,180,,0,,,biling
+Kimberly,IPS1_S36,,Father & sons,5,rec2,180,,0,,,biling
+Kimberly,IPS1_S36,,Shepherd boy & wolf,6,rec1,235,,0,,,biling
+Kimberly,IPS1_S36,,Shepherd boy & wolf,6,rec2,235,,0,,,biling
+Kimberly,IPS1_S36,,Lion & mouse,7,rec1,194,,0,,,biling
+Kimberly,IPS1_S36,,Lion & mouse,7,rec2,194,,0,,,biling
+Kimberly,IPS1_S36,,Cat video,8,rec1,267,,0,,,biling
+Rabia,IPS1_S37,7,Ashley & psychics,1,rec1,274,15,5.47,EN,EN,biling
+Rabia,IPS1_S37,,Rabbit thesis,2,rec1,320,74,23.13,EN,EN,biling
+Rabia,IPS1_S37,,Rabbit thesis,2,rec2,320,32,10,EN,EN,biling
+Rabia,IPS1_S37,,Man vs. monkeys,3,rec1,291,104,35.74,EN,EN,biling
+Rabia,IPS1_S37,,Man vs. monkeys,3,rec2,291,24,8.25,EN,EN,biling
+Rabia,IPS1_S37,,Cat video,4,rec1,267,85,31.84,EN,EN,biling
+Rabia,IPS1_S37,,Cat video,4,rec2,267,34,12.73,EN,EN,biling
+Rabia,IPS1_S37,,Father & sons,5,rec1,180,50,27.78,EN,EN,biling
+Rabia,IPS1_S37,,Father & sons,5,rec2,180,10,5.56,EN,EN,biling
+Rabia,IPS1_S37,,Shepherd boy & wolf,6,rec1,235,71,30.21,EN,EN,biling
+Rabia,IPS1_S37,,Shepherd boy & wolf,6,rec2,235,17,7.23,EN,EN,biling
+Rabia,IPS1_S37,,Tim's brilliant career,7,rec1,250,58,23.2,EN,EN,biling
+Rabia,IPS1_S37,,Tim's brilliant career,7,rec2,250,34,13.6,EN,EN,biling
+Rabia,IPS1_S37,,Lion & mouse,8,rec1,194,58,29.9,EN,EN,biling
+Victoria,IPS1_S38,7,Ashley & psychics,1,rec1,274,0,0,EN,EN,mono
+Victoria,IPS1_S38,,Man vs. monkeys,2,rec1,291,84,28.87,EN,EN,mono
+Victoria,IPS1_S38,,Man vs. monkeys,2,rec2,291,18,6.19,EN,EN,mono
+Victoria,IPS1_S38,,Rabbit thesis,3,rec1,320,29,9.06,EN,EN,mono
+Victoria,IPS1_S38,,Rabbit thesis,3,rec2,320,13,4.06,EN,EN,mono
+Victoria,IPS1_S38,,Tim's brilliant career,4,rec1,250,20,8,EN,EN,mono
+Victoria,IPS1_S38,,Tim's brilliant career,4,rec2,250,4,1.6,EN,EN,mono
+Victoria,IPS1_S38,,Cat video,5,rec1,267,52,19.48,EN,EN,mono
+Victoria,IPS1_S38,,Cat video,5,rec2,267,8,3,EN,EN,mono
+Victoria,IPS1_S38,,Lion & mouse,6,rec1,194,21,10.82,EN,EN,mono
+Victoria,IPS1_S38,,Lion & mouse,6,rec2,194,8,4.12,EN,EN,mono
+Victoria,IPS1_S38,,Father & sons,7,rec1,180,15,8.33,EN,EN,mono
+Victoria,IPS1_S38,,Father & sons,7,rec2,180,4,2.22,EN,EN,mono
+Victoria,IPS1_S38,,Shepherd boy & wolf,8,rec1,235,47,20,EN,EN,mono
+Cindy,IPS1_S39,,,1,rec1,,,100,,,
+Cindy,IPS1_S39,,,2,rec1,,,,,,
+Cindy,IPS1_S39,,,2,rec2,,,,,,
+Cindy,IPS1_S39,,,3,rec1,,,,,,
+Cindy,IPS1_S39,,,3,rec2,,,,,,
+Cindy,IPS1_S39,,,4,rec1,,,,,,
+Cindy,IPS1_S39,,,4,rec2,,,,,,
+Cindy,IPS1_S39,,,5,rec1,,,,,,
+Cindy,IPS1_S39,,,5,rec2,,,,,,
+Cindy,IPS1_S39,,,6,rec1,,,,,,
+Cindy,IPS1_S39,,,6,rec2,,,,,,
+Cindy,IPS1_S39,,,7,rec1,,,,,,
+Cindy,IPS1_S39,,,7,rec2,,,,,,
+Cindy,IPS1_S39,,,8,rec1,,,,,,
+Brian,IPS1_S40,7,Ashley & psychics,1,rec1,274,10,3.65,EN,EN,biling
+Brian,IPS1_S40,,Cat video,2,rec1,267,99,37.08,EN,EN,biling
+Brian,IPS1_S40,,Cat video,2,rec2,267,24,8.99,EN,EN,biling
+Brian,IPS1_S40,,Tim's brilliant career,3,rec1,250,53,21.2,EN,EN,biling
+Brian,IPS1_S40,,Tim's brilliant career,3,rec2,250,6,2.4,EN,EN,biling
+Brian,IPS1_S40,,Lion & mouse,4,rec1,194,77,39.69,EN,EN,biling
+Brian,IPS1_S40,,Lion & mouse,4,rec2,194,2,1.03,EN,EN,biling
+Brian,IPS1_S40,,Rabbit thesis,5,rec1,320,43,13.44,EN,EN,biling
+Brian,IPS1_S40,,Rabbit thesis,5,rec2,320,5,1.56,EN,EN,biling
+Brian,IPS1_S40,,Shepherd boy & wolf,6,rec1,235,46,19.57,EN,EN,biling
+Brian,IPS1_S40,,Shepherd boy & wolf,6,rec2,235,7,2.98,EN,EN,biling
+Brian,IPS1_S40,,Man vs. monkeys,7,rec1,291,49,16.84,EN,EN,biling
+Brian,IPS1_S40,,Man vs. monkeys,7,rec2,291,8,2.75,EN,EN,biling
+Brian,IPS1_S40,,Father & sons,8,rec1,180,17,9.44,EN,EN,biling
+Brielle,IPS1_S41,7,Ashley & psychics,1,rec1,274,41,14.96,EN,EN,mono
+Brielle,IPS1_S41,,Tim's brilliant career,2,rec1,250,61,24.4,EN,EN,mono
+Brielle,IPS1_S41,,Tim's brilliant career,2,rec2,250,24,9.6,EN,EN,mono
+Brielle,IPS1_S41,,Father & sons,3,rec1,180,58,32.22,EN,EN,mono
+Brielle,IPS1_S41,,Father & sons,3,rec2,180,9,5,EN,EN,mono
+Brielle,IPS1_S41,,Cat video,4,rec1,267,77,28.84,EN,EN,mono
+Brielle,IPS1_S41,,Cat video,4,rec2,267,29,10.86,EN,EN,mono
+Brielle,IPS1_S41,,Shepherd boy & wolf,5,rec1,235,58,24.68,EN,EN,mono
+Brielle,IPS1_S41,,Shepherd boy & wolf,5,rec2,235,20,8.51,EN,EN,mono
+Brielle,IPS1_S41,,Lion & mouse,6,rec1,194,31,15.98,EN,EN,mono
+Brielle,IPS1_S41,,Lion & mouse,6,rec2,194,4,2.06,EN,EN,mono
+Brielle,IPS1_S41,,Man vs. monkeys,7,rec1,291,44,15.12,EN,EN,mono
+Brielle,IPS1_S41,,Man vs. monkeys,7,rec2,291,15,5.15,EN,EN,mono
+Brielle,IPS1_S41,,Rabbit thesis,8,rec1,320,40,12.5,EN,EN,mono
+Mikayla,IPS1_S42,7,Ashley & psychics,1,rec1,274,14,5.11,EN,EN,mono
+Mikayla,IPS1_S42,,Tim's brilliant career,2,rec1,250,127,50.8,EN,EN,mono
+Mikayla,IPS1_S42,,Tim's brilliant career,2,rec2,250,50,20,EN,EN,mono
+Mikayla,IPS1_S42,,Father & sons,3,rec1,180,81,45,EN,EN,mono
+Mikayla,IPS1_S42,,Father & sons,3,rec2,180,20,11.11,EN,EN,mono
+Mikayla,IPS1_S42,,Shepherd boy & wolf,4,rec1,235,146,62.13,EN,EN,mono
+Mikayla,IPS1_S42,,Shepherd boy & wolf,4,rec2,235,78,33.19,EN,EN,mono
+Mikayla,IPS1_S42,,Man vs. monkeys,5,rec1,291,97,33.33,EN,EN,mono
+Mikayla,IPS1_S42,,Man vs. monkeys,5,rec2,291,33,11.34,EN,EN,mono
+Mikayla,IPS1_S42,,Lion & mouse,6,rec1,194,95,48.97,EN,EN,mono
+Mikayla,IPS1_S42,,Lion & mouse,6,rec2,194,39,20.1,EN,EN,mono
+Mikayla,IPS1_S42,,Cat video,7,rec1,267,139,52.06,EN,EN,mono
+Mikayla,IPS1_S42,,Cat video,7,rec2,267,54,20.22,EN,EN,mono
+Mikayla,IPS1_S42,,Rabbit thesis,8,rec1,320,89,27.81,EN,EN,mono
+Joseariel,IPS1_S43,7,Ashley & psychics,1,rec1,274,110,40.15,,,biling
+Joseariel,IPS1_S43,,Rabbit thesis,2,rec1,320,,0,,,biling
+Joseariel,IPS1_S43,,Rabbit thesis,2,rec2,320,,0,,,biling
+Joseariel,IPS1_S43,,Father & sons,3,rec1,180,,0,,,biling
+Joseariel,IPS1_S43,,Father & sons,3,rec2,180,,0,,,biling
+Joseariel,IPS1_S43,,Shepherd boy & wolf,4,rec1,235,,0,,,biling
+Joseariel,IPS1_S43,,Shepherd boy & wolf,4,rec2,235,,0,,,biling
+Joseariel,IPS1_S43,,Lion & mouse,5,rec1,194,,0,,,biling
+Joseariel,IPS1_S43,,Lion & mouse,5,rec2,194,,0,,,biling
+Joseariel,IPS1_S43,,Man vs. monkeys,6,rec1,291,,0,,,biling
+Joseariel,IPS1_S43,,Man vs. monkeys,6,rec2,291,,0,,,biling
+Joseariel,IPS1_S43,,Tim's brilliant career,7,rec1,250,,0,,,biling
+Joseariel,IPS1_S43,,Tim's brilliant career,7,rec2,250,,0,,,biling
+Joseariel,IPS1_S43,,Cat video,8,rec1,267,,0,,,biling
+Allison,IPS1_S44,7,Ashley & psychics,1,rec1,274,3,1.09,EN,EN,mono
+Allison,IPS1_S44,,Lion & mouse,2,rec1,194,62,31.96,EN,EN,mono
+Allison,IPS1_S44,,Lion & mouse,2,rec2,194,13,6.7,EN,EN,mono
+Allison,IPS1_S44,,Shepherd boy & wolf,3,rec1,235,37,15.74,EN,EN,mono
+Allison,IPS1_S44,,Shepherd boy & wolf,3,rec2,235,8,3.4,EN,EN,mono
+Allison,IPS1_S44,,Tim's brilliant career,4,rec1,250,35,14,EN,EN,mono
+Allison,IPS1_S44,,Tim's brilliant career,4,rec2,250,7,2.8,EN,EN,mono
+Allison,IPS1_S44,,Cat video,5,rec1,267,60,22.47,EN,EN,mono
+Allison,IPS1_S44,,Cat video,5,rec2,267,5,1.87,EN,EN,mono
+Allison,IPS1_S44,,Father & sons,6,rec1,180,33,18.33,EN,EN,mono
+Allison,IPS1_S44,,Father & sons,6,rec2,180,4,2.22,EN,EN,mono
+Allison,IPS1_S44,,Rabbit thesis,7,rec1,320,14,4.38,EN,EN,mono
+Allison,IPS1_S44,,Rabbit thesis,7,rec2,320,3,0.94,EN,EN,mono
+Allison,IPS1_S44,,Man vs. monkeys,8,rec1,291,42,14.43,EN,EN,mono
+Romay,IPS1_S45,7,Ashley & psychics,1,rec1,274,15,5.47,EN,EN,biling
+Romay,IPS1_S45,,Shepherd boy & wolf,2,rec1,235,72,30.64,EN,EN,biling
+Romay,IPS1_S45,,Shepherd boy & wolf,2,rec2,235,22,9.36,EN,EN,biling
+Romay,IPS1_S45,,Cat video,3,rec1,267,94,35.21,EN,EN,biling
+Romay,IPS1_S45,,Cat video,3,rec2,267,40,14.98,EN,EN,biling
+Romay,IPS1_S45,,Lion & mouse,4,rec1,194,38,19.59,EN,EN,biling
+Romay,IPS1_S45,,Lion & mouse,4,rec2,194,21,10.82,EN,EN,biling
+Romay,IPS1_S45,,Rabbit thesis,5,rec1,320,33,10.31,EN,EN,biling
+Romay,IPS1_S45,,Rabbit thesis,5,rec2,320,13,4.06,EN,EN,biling
+Romay,IPS1_S45,,Father & sons,6,rec1,180,32,17.78,EN,EN,biling
+Romay,IPS1_S45,,Father & sons,6,rec2,180,25,13.89,EN,EN,biling
+Romay,IPS1_S45,,Man vs. monkeys,7,rec1,291,59,20.27,EN,EN,biling
+Romay,IPS1_S45,,Man vs. monkeys,7,rec2,291,21,7.22,EN,EN,biling
+Romay,IPS1_S45,,Tim's brilliant career,8,rec1,250,35,14,EN,EN,biling
+Dana,IPS1_S46,7,Ashley & psychics,1,rec1,274,6,2.19,EN,EN,mono
+Dana,IPS1_S46,,Man vs. monkeys,2,rec1,291,64,21.99,EN,EN,mono
+Dana,IPS1_S46,,Man vs. monkeys,2,rec2,291,50,17.18,EN,EN,mono
+Dana,IPS1_S46,,Tim's brilliant career,3,rec1,250,53,21.2,EN,EN,mono
+Dana,IPS1_S46,,Tim's brilliant career,3,rec2,250,23,9.2,EN,EN,mono
+Dana,IPS1_S46,,Father & sons,4,rec1,180,41,22.78,EN,EN,mono
+Dana,IPS1_S46,,Father & sons,4,rec2,180,8,4.44,EN,EN,mono
+Dana,IPS1_S46,,Shepherd boy & wolf,5,rec1,235,67,28.51,EN,EN,mono
+Dana,IPS1_S46,,Shepherd boy & wolf,5,rec2,235,28,11.91,EN,EN,mono
+Dana,IPS1_S46,,Cat video,6,rec1,267,75,28.09,EN,EN,mono
+Dana,IPS1_S46,,Cat video,6,rec2,267,25,9.36,EN,EN,mono
+Dana,IPS1_S46,,Rabbit thesis,7,rec1,320,51,15.94,EN,EN,mono
+Dana,IPS1_S46,,Rabbit thesis,7,rec2,320,11,3.44,EN,EN,mono
+Dana,IPS1_S46,,Lion & mouse,8,rec1,194,38,19.59,EN,EN,mono
+Jada,IPS1_S47,7,Ashley & psychics,1,rec1,274,8,2.92,EN,EN,biling
+Jada,IPS1_S47,,Cat video,2,rec1,267,72,26.97,EN,EN,biling
+Jada,IPS1_S47,,Cat video,2,rec2,267,11,4.12,EN,EN,biling
+Jada,IPS1_S47,,Rabbit thesis,3,rec1,320,35,10.94,EN,EN,biling
+Jada,IPS1_S47,,Rabbit thesis,3,rec2,320,2,0.63,EN,EN,biling
+Jada,IPS1_S47,,Man vs. monkeys,4,rec1,291,15,5.15,EN,EN,biling
+Jada,IPS1_S47,,Man vs. monkeys,4,rec2,291,4,1.37,EN,EN,biling
+Jada,IPS1_S47,,Lion & mouse,5,rec1,194,30,15.46,EN,EN,biling
+Jada,IPS1_S47,,Lion & mouse,5,rec2,194,5,2.58,EN,EN,biling
+Jada,IPS1_S47,,Tim's brilliant career,6,rec1,250,26,10.4,EN,EN,biling
+Jada,IPS1_S47,,Tim's brilliant career,6,rec2,250,4,1.6,EN,EN,biling
+Jada,IPS1_S47,,Father & sons,7,rec1,180,19,10.56,EN,EN,biling
+Jada,IPS1_S47,,Father & sons,7,rec2,180,1,0.56,EN,EN,biling
+Jada,IPS1_S47,,Shepherd boy & wolf,8,rec1,235,28,11.91,EN,EN,biling
+Areana,IPS1_S48,7,,1,rec1,,,100,,,
+Areana,IPS1_S48,9,,2,rec1,,,,,,
+Areana,IPS1_S48,1,,2,rec2,,,,,,
+Areana,IPS1_S48,4,,3,rec1,,,,,,
+Areana,IPS1_S48,2,,3,rec2,,,,,,
+Areana,IPS1_S48,6,,4,rec1,,,,,,
+Areana,IPS1_S48,8,,4,rec2,,,,,,
+Areana,IPS1_S48,3,,5,rec1,,,,,,
+Areana,IPS1_S48,,,5,rec2,,,,,,
+Areana,IPS1_S48,,,6,rec1,,,,,,
+Areana,IPS1_S48,,,6,rec2,,,,,,
+Areana,IPS1_S48,,,7,rec1,,,,,,
+Areana,IPS1_S48,,,7,rec2,,,,,,
+Areana,IPS1_S48,,,8,rec1,,,,,,
+Winni,IPS1_S49,7,Ashley & psychics,1,rec1,274,23,8.39,EN,EN,bilingMandarin
+Winni,IPS1_S49,,Tim's brilliant career,2,rec1,250,79,31.6,EN,EN,bilingMandarin
+Winni,IPS1_S49,,Tim's brilliant career,2,rec2,250,29,11.6,EN,EN,bilingMandarin
+Winni,IPS1_S49,,Lion & mouse,3,rec1,194,53,27.32,EN,EN,bilingMandarin
+Winni,IPS1_S49,,Lion & mouse,3,rec2,194,4,2.06,EN,EN,bilingMandarin
+Winni,IPS1_S49,,Man vs. monkeys,4,rec1,291,45,15.46,EN,EN,bilingMandarin
+Winni,IPS1_S49,,Man vs. monkeys,4,rec2,291,5,1.72,EN,EN,bilingMandarin
+Winni,IPS1_S49,,Rabbit thesis,5,rec1,320,43,13.44,EN,EN,bilingMandarin
+Winni,IPS1_S49,,Rabbit thesis,5,rec2,320,4,1.25,EN,EN,bilingMandarin
+Winni,IPS1_S49,,Shepherd boy & wolf,6,rec1,235,38,16.17,EN,EN,bilingMandarin
+Winni,IPS1_S49,,Shepherd boy & wolf,6,rec2,235,6,2.55,EN,EN,bilingMandarin
+Winni,IPS1_S49,,Cat video,7,rec1,267,63,23.6,EN,EN,bilingMandarin
+Winni,IPS1_S49,,Cat video,7,rec2,267,18,6.74,EN,EN,bilingMandarin
+Winni,IPS1_S49,,Father & sons,8,rec1,180,30,16.67,EN,EN,bilingMandarin
+Calia,IPS1_S50,7,Ashley & psychics,1,rec1,274,7,2.55,EN,EN,biling
+Calia,IPS1_S50,,Rabbit thesis,2,rec1,320,114,35.63,EN,EN,biling
+Calia,IPS1_S50,,Rabbit thesis,2,rec2,320,16,5,EN,EN,biling
+Calia,IPS1_S50,,Shepherd boy & wolf,3,rec1,235,95,40.43,EN,EN,biling
+Calia,IPS1_S50,,Shepherd boy & wolf,3,rec2,235,18,7.66,EN,EN,biling
+Calia,IPS1_S50,,Lion & mouse,4,rec1,194,67,34.54,EN,EN,biling
+Calia,IPS1_S50,,Lion & mouse,4,rec2,194,40,20.62,EN,EN,biling
+Calia,IPS1_S50,,Man vs. monkeys,5,rec1,291,58,19.93,EN,EN,biling
+Calia,IPS1_S50,,Man vs. monkeys,5,rec2,291,13,4.47,EN,EN,biling
+Calia,IPS1_S50,,Tim's brilliant career,6,rec1,250,79,31.6,EN,EN,biling
+Calia,IPS1_S50,,Tim's brilliant career,6,rec2,250,12,4.8,EN,EN,biling
+Calia,IPS1_S50,,Cat video,7,rec1,267,75,28.09,EN,EN,biling
+Calia,IPS1_S50,,Cat video,7,rec2,267,14,5.24,EN,EN,biling
+Calia,IPS1_S50,,Father & sons,8,rec1,180,53,29.44,EN,EN,biling
+Justin,IPS1_S51,7,Ashley & psychics,1,rec1,274,0,0,EN,EN,biling
+Justin,IPS1_S51,,Father & sons,2,rec1,180,58,32.22,EN,EN,biling
+Justin,IPS1_S51,,Father & sons,2,rec2,180,18,10,EN,EN,biling
+Justin,IPS1_S51,,Man vs. monkeys,3,rec1,291,60,20.62,EN,EN,biling
+Justin,IPS1_S51,,Man vs. monkeys,3,rec2,291,23,7.9,EN,EN,biling
+Justin,IPS1_S51,,Cat video,4,rec1,267,89,33.33,EN,EN,biling
+Justin,IPS1_S51,,Cat video,4,rec2,267,25,9.36,EN,EN,biling
+Justin,IPS1_S51,,Tim's brilliant career,5,rec1,250,67,26.8,EN,EN,biling
+Justin,IPS1_S51,,Tim's brilliant career,5,rec2,250,18,7.2,EN,EN,biling
+Justin,IPS1_S51,,Rabbit thesis,6,rec1,320,47,14.69,EN,EN,biling
+Justin,IPS1_S51,,Rabbit thesis,6,rec2,320,17,5.31,EN,EN,biling
+Justin,IPS1_S51,,Lion & mouse,7,rec1,194,60,30.93,EN,EN,biling
+Justin,IPS1_S51,,Lion & mouse,7,rec2,194,31,15.98,EN,EN,biling
+Justin,IPS1_S51,,Shepherd boy & wolf,8,rec1,235,53,22.55,EN,EN,biling
+Georgia,IPS1_S52,7,Ashley & psychics,1,rec1,274,25,9.12,EN,EN,biling
+Georgia,IPS1_S52,,Cat video,2,rec1,267,119,44.57,EN,EN,biling
+Georgia,IPS1_S52,,Cat video,2,rec2,267,85,31.84,EN,EN,biling
+Georgia,IPS1_S52,,Tim's brilliant career,3,rec1,250,50,20,EN,EN,biling
+Georgia,IPS1_S52,,Tim's brilliant career,3,rec2,250,33,13.2,EN,EN,biling
+Georgia,IPS1_S52,,Shepherd boy & wolf,4,rec1,235,62,26.38,EN,EN,biling
+Georgia,IPS1_S52,,Shepherd boy & wolf,4,rec2,235,68,28.94,EN,EN,biling
+Georgia,IPS1_S52,,Lion & mouse,5,rec1,194,65,33.51,EN,EN,biling
+Georgia,IPS1_S52,,Lion & mouse,5,rec2,194,29,14.95,EN,EN,biling
+Georgia,IPS1_S52,,Father & sons,6,rec1,180,32,17.78,EN,EN,biling
+Georgia,IPS1_S52,,Father & sons,6,rec2,180,10,5.56,EN,EN,biling
+Georgia,IPS1_S52,,Man vs. monkeys,7,rec1,291,53,18.21,EN,EN,biling
+Georgia,IPS1_S52,,Man vs. monkeys,7,rec2,291,20,6.87,EN,EN,biling
+Georgia,IPS1_S52,,Rabbit thesis,8,rec1,320,38,11.88,EN,EN,biling
+Sandra,IPS1_S53,7,Ashley & psychics,1,rec1,274,20,7.3,EN,EN,biling
+Sandra,IPS1_S53,,Tim's brilliant career,2,rec1,250,83,33.2,EN,EN,biling
+Sandra,IPS1_S53,,Tim's brilliant career,2,rec2,250,27,10.8,EN,EN,biling
+Sandra,IPS1_S53,,Shepherd boy & wolf,3,rec1,235,107,45.53,EN,EN,biling
+Sandra,IPS1_S53,,Shepherd boy & wolf,3,rec2,235,19,8.09,EN,EN,biling
+Sandra,IPS1_S53,,Rabbit thesis,4,rec1,320,67,20.94,EN,EN,biling
+Sandra,IPS1_S53,,Rabbit thesis,4,rec2,320,9,2.81,EN,EN,biling
+Sandra,IPS1_S53,,Man vs. monkeys,5,rec1,291,67,23.02,EN,EN,biling
+Sandra,IPS1_S53,,Man vs. monkeys,5,rec2,291,22,7.56,EN,EN,biling
+Sandra,IPS1_S53,,Lion & mouse,6,rec1,194,64,32.99,EN,EN,biling
+Sandra,IPS1_S53,,Lion & mouse,6,rec2,194,25,12.89,EN,EN,biling
+Sandra,IPS1_S53,,Cat video,7,rec1,267,99,37.08,EN,EN,biling
+Sandra,IPS1_S53,,Cat video,7,rec2,267,37,13.86,EN,EN,biling
+Sandra,IPS1_S53,,Father & sons,8,rec1,180,32,17.78,EN,EN,biling
+Larissa,IPS1_S54,7,Ashley & psychics,1,rec1,274,1,0.36,EN,EN,biling
+Larissa,IPS1_S54,,Lion & mouse,2,rec1,194,56,28.87,EN,EN,biling
+Larissa,IPS1_S54,,Lion & mouse,2,rec2,194,5,2.58,EN,EN,biling
+Larissa,IPS1_S54,,Cat video,3,rec1,267,79,29.59,EN,EN,biling
+Larissa,IPS1_S54,,Cat video,3,rec2,267,13,4.87,EN,EN,biling
+Larissa,IPS1_S54,,Man vs. monkeys,4,rec1,291,55,18.9,EN,EN,biling
+Larissa,IPS1_S54,,Man vs. monkeys,4,rec2,291,9,3.09,EN,EN,biling
+Larissa,IPS1_S54,,Father & sons,5,rec1,180,41,22.78,EN,EN,biling
+Larissa,IPS1_S54,,Father & sons,5,rec2,180,16,8.89,EN,EN,biling
+Larissa,IPS1_S54,,Rabbit thesis,6,rec1,320,35,10.94,EN,EN,biling
+Larissa,IPS1_S54,,Rabbit thesis,6,rec2,320,10,3.13,EN,EN,biling
+Larissa,IPS1_S54,,Tim's brilliant career,7,rec1,250,33,13.2,EN,EN,biling
+Larissa,IPS1_S54,,Tim's brilliant career,7,rec2,250,6,2.4,EN,EN,biling
+Larissa,IPS1_S54,,Shepherd boy & wolf,8,rec1,235,24,10.21,EN,EN,biling
+Sara,IPS1_S55,7,Ashley & psychics,1,rec1,274,15,5.47,EN,EN,biling
+Sara,IPS1_S55,,Father & sons,2,rec1,180,75,41.67,EN,EN,biling
+Sara,IPS1_S55,,Father & sons,2,rec2,180,4,2.22,EN,EN,biling
+Sara,IPS1_S55,,Rabbit thesis,3,rec1,320,72,22.5,EN,EN,biling
+Sara,IPS1_S55,,Rabbit thesis,3,rec2,320,8,2.5,EN,EN,biling
+Sara,IPS1_S55,,Cat video,4,rec1,267,89,33.33,EN,EN,biling
+Sara,IPS1_S55,,Cat video,4,rec2,267,17,6.37,EN,EN,biling
+Sara,IPS1_S55,,Man vs. monkeys,5,rec1,291,38,13.06,EN,EN,biling
+Sara,IPS1_S55,,Man vs. monkeys,5,rec2,291,11,3.78,EN,EN,biling
+Sara,IPS1_S55,,Shepherd boy & wolf,6,rec1,235,64,27.23,EN,EN,biling
+Sara,IPS1_S55,,Shepherd boy & wolf,6,rec2,235,6,2.55,EN,EN,biling
+Sara,IPS1_S55,,Lion & mouse,7,rec1,194,76,39.18,EN,EN,biling
+Sara,IPS1_S55,,Lion & mouse,7,rec2,194,27,13.92,EN,EN,biling
+Sara,IPS1_S55,,Tim's brilliant career,8,rec1,250,38,15.2,EN,EN,biling
+Kelsey,IPS1_S56,7,Ashley & psychics,1,rec1,274,23,8.39,EN,EN,biling
+Kelsey,IPS1_S56,,Shepherd boy & wolf,2,rec1,235,84,35.74,EN,EN,biling
+Kelsey,IPS1_S56,,Shepherd boy & wolf,2,rec2,235,26,11.06,EN,EN,biling
+Kelsey,IPS1_S56,,Cat video,3,rec1,267,88,32.96,EN,EN,biling
+Kelsey,IPS1_S56,,Cat video,3,rec2,267,23,8.61,EN,EN,biling
+Kelsey,IPS1_S56,,Lion & mouse,4,rec1,194,57,29.38,EN,EN,biling
+Kelsey,IPS1_S56,,Lion & mouse,4,rec2,194,7,3.61,EN,EN,biling
+Kelsey,IPS1_S56,,Rabbit thesis,5,rec1,320,32,10,EN,EN,biling
+Kelsey,IPS1_S56,,Rabbit thesis,5,rec2,320,5,1.56,EN,EN,biling
+Kelsey,IPS1_S56,,Father & sons,6,rec1,180,31,17.22,EN,EN,biling
+Kelsey,IPS1_S56,,Father & sons,6,rec2,180,12,6.67,EN,EN,biling
+Kelsey,IPS1_S56,,Man vs. monkeys,7,rec1,291,48,16.49,EN,EN,biling
+Kelsey,IPS1_S56,,Man vs. monkeys,7,rec2,291,24,8.25,EN,EN,biling
+Kelsey,IPS1_S56,,Tim's brilliant career,8,rec1,250,56,22.4,EN,EN,biling
+Antoine,IPS1_S57,7,Ashley & psychics,1,rec1,274,18,6.57,EN,EN,biling
+Antoine,IPS1_S57,,Father & sons,2,rec1,180,39,21.67,EN,EN,biling
+Antoine,IPS1_S57,,Father & sons,2,rec2,180,14,7.78,EN,EN,biling
+Antoine,IPS1_S57,,Rabbit thesis,3,rec1,320,61,19.06,EN,EN,biling
+Antoine,IPS1_S57,,Rabbit thesis,3,rec2,320,11,3.44,EN,EN,biling
+Antoine,IPS1_S57,,Cat video,4,rec1,267,82,30.71,EN,EN,biling
+Antoine,IPS1_S57,,Cat video,4,rec2,267,33,12.36,EN,EN,biling
+Antoine,IPS1_S57,,Man vs. monkeys,5,rec1,291,41,14.09,EN,EN,biling
+Antoine,IPS1_S57,,Man vs. monkeys,5,rec2,291,17,5.84,EN,EN,biling
+Antoine,IPS1_S57,,Shepherd boy & wolf,6,rec1,235,59,25.11,EN,EN,biling
+Antoine,IPS1_S57,,Shepherd boy & wolf,6,rec2,235,12,5.11,EN,EN,biling
+Antoine,IPS1_S57,,Lion & mouse,7,rec1,194,47,24.23,EN,EN,biling
+Antoine,IPS1_S57,,Lion & mouse,7,rec2,194,23,11.86,EN,EN,biling
+Antoine,IPS1_S57,,Tim's brilliant career,8,rec1,250,43,17.2,EN,EN,biling
+Gavin,IPS1_S58,7,Ashley & psychics,1,rec1,274,,100,,,bilingMandarin
+Gavin,IPS1_S58,,Man vs. monkeys,2,rec1,291,,0,,,bilingMandarin
+Gavin,IPS1_S58,,Man vs. monkeys,2,rec2,291,,0,,,bilingMandarin
+Gavin,IPS1_S58,,Tim's brilliant career,3,rec1,250,,0,,,bilingMandarin
+Gavin,IPS1_S58,,Tim's brilliant career,3,rec2,250,,0,,,bilingMandarin
+Gavin,IPS1_S58,,Rabbit thesis,4,rec1,320,,0,,,bilingMandarin
+Gavin,IPS1_S58,,Rabbit thesis,4,rec2,320,,0,,,bilingMandarin
+Gavin,IPS1_S58,,Lion & mouse,5,rec1,194,,0,,,bilingMandarin
+Gavin,IPS1_S58,,Lion & mouse,5,rec2,194,,0,,,bilingMandarin
+Gavin,IPS1_S58,,Cat video,6,rec1,267,,0,,,bilingMandarin
+Gavin,IPS1_S58,,Cat video,6,rec2,267,,0,,,bilingMandarin
+Gavin,IPS1_S58,,Shepherd boy & wolf,7,rec1,235,,0,,,bilingMandarin
+Gavin,IPS1_S58,,Shepherd boy & wolf,7,rec2,235,,0,,,bilingMandarin
+Gavin,IPS1_S58,,Father & sons,8,rec1,180,,0,,,bilingMandarin
+Maribel,IPS1_S59,7,Ashley & psychics,1,rec1,274,0,0,EN,EN,biling
+Maribel,IPS1_S59,,Cat video,2,rec1,267,115,43.07,EN,EN,biling
+Maribel,IPS1_S59,,Cat video,2,rec2,267,18,6.74,EN,EN,biling
+Maribel,IPS1_S59,,Man vs. monkeys,3,rec1,291,66,22.68,EN,EN,biling
+Maribel,IPS1_S59,,Man vs. monkeys,3,rec2,291,14,4.81,EN,EN,biling
+Maribel,IPS1_S59,,Shepherd boy & wolf,4,rec1,235,51,21.7,EN,EN,biling
+Maribel,IPS1_S59,,Shepherd boy & wolf,4,rec2,235,12,5.11,EN,EN,biling
+MAribel,IPS1_S59,,Tim's brilliant career,5,rec1,250,61,24.4,EN,EN,biling
+Maribel,IPS1_S59,,Tim's brilliant career,5,rec2,250,13,5.2,EN,EN,biling
+Maribel,IPS1_S59,,Lion & mouse,6,rec1,194,44,22.68,EN,EN,biling
+Maribel,IPS1_S59,,Lion & mouse,6,rec2,194,4,2.06,EN,EN,biling
+Maribel,IPS1_S59,,Father & sons,7,rec1,180,34,18.89,EN,EN,biling
+Maribel,IPS1_S59,,Father & sons,7,rec2,180,5,2.78,EN,EN,biling
+Maribel,IPS1_S59,,Rabbit thesis,8,rec1,320,37,11.56,EN,EN,biling
+Engely,IPS1_S60,7,Ashley & psychics,1,rec1,274,71,25.91,,,biling
+Engely,IPS1_S60,,Rabbit thesis,2,rec1,320,,0,,,biling
+Engely,IPS1_S60,,Rabbit thesis,2,rec2,320,,0,,,biling
+Engely,IPS1_S60,,Lion & mouse,3,rec1,194,,0,,,biling
+Engely,IPS1_S60,,Lion & mouse,3,rec2,194,,0,,,biling
+Engely,IPS1_S60,,Man vs. monkeys,4,rec1,291,,0,,,biling
+Engely,IPS1_S60,,Man vs. monkeys,4,rec2,291,,0,,,biling
+Engely,IPS1_S60,,Father & sons,5,rec1,180,,0,,,biling
+Engely,IPS1_S60,,Father & sons,5,rec2,180,,0,,,biling
+Engely,IPS1_S60,,Tim's brilliant career,6,rec1,250,,0,,,biling
+Engely,IPS1_S60,,Tim's brilliant career,6,rec2,250,,0,,,biling
+Engely,IPS1_S60,,Cat video,7,rec1,267,,0,,,biling
+Engely,IPS1_S60,,Cat video,7,rec2,267,,0,,,biling
+Engely,IPS1_S60,,Shepherd boy & wolf,8,rec1,235,,0,,,biling
+Irene,IPS1_S61,7,Ashley & psychics,1,rec1,274,49,17.88,JC,JC,bilingMandarin
+Irene,IPS1_S61,,Father & sons,2,rec1,180,48,26.67,JC,JC,bilingMandarin
+Irene,IPS1_S61,,Father & sons,2,rec2,180,17,9.44,JC,JC,bilingMandarin
+Irene,IPS1_S61,,Shepherd boy & wolf,3,rec1,235,50,21.28,JC,JC,bilingMandarin
+Irene,IPS1_S61,,Shepherd boy & wolf,3,rec2,235,5,2.13,JC,JC,bilingMandarin
+Irene,IPS1_S61,,Cat video,4,rec1,267,50,18.73,JC,JC,bilingMandarin
+Irene,IPS1_S61,,Cat video,4,rec2,267,25,9.36,JC,JC,bilingMandarin
+Irene,IPS1_S61,,Rabbit thesis,5,rec1,320,50,15.63,JC,JC,bilingMandarin
+Irene,IPS1_S61,,Rabbit thesis,5,rec2,320,24,7.5,JC,JC,bilingMandarin
+Irene,IPS1_S61,,Man vs. monkeys,6,rec1,291,31,10.65,JC,JC,bilingMandarin
+Irene,IPS1_S61,,Man vs. monkeys,6,rec2,291,8,2.75,JC,JC,bilingMandarin
+Irene,IPS1_S61,,Tim's brilliant career,7,rec1,250,41,16.4,JC,JC,bilingMandarin
+Irene,IPS1_S61,,Tim's brilliant career,7,rec2,250,18,7.2,JC,JC,bilingMandarin
+Irene,IPS1_S61,,Lion & mouse,8,rec1,194,15,7.73,JC,JC,bilingMandarin
+Stephanie,IPS1_S62,,Ashley & psychics,1,rec1,274,1,0.36,JC,JC,bilingMandarin
+Stephanie,IPS1_S62,,Tim's brilliant career,2,rec1,250,47,18.8,JC,JC,bilingMandarin
+Stephanie,IPS1_S62,,Tim's brilliant career,2,rec2,250,1,0.4,JC,JC,bilingMandarin
+Stephanie,IPS1_S62,,Shepherd boy & wolf,3,rec1,235,48,20.43,JC,JC,bilingMandarin
+Stephanie,IPS1_S62,,Shepherd boy & wolf,3,rec2,235,3,1.28,JC,JC,bilingMandarin
+Stephanie,IPS1_S62,,Rabbit thesis,4,rec1,320,15,4.69,JC,JC,bilingMandarin
+Stephanie,IPS1_S62,,Rabbit thesis,4,rec2,320,0,0,JC,JC,bilingMandarin
+Stephanie,IPS1_S62,,Man vs. monkeys,5,rec1,291,20,6.87,JC,JC,bilingMandarin
+Stephanie,IPS1_S62,,Man vs. monkeys,5,rec2,291,0,0,JC,JC,bilingMandarin
+Stephanie,IPS1_S62,,Lion & mouse,6,rec1,194,53,27.32,JC,JC,bilingMandarin
+Stephanie,IPS1_S62,,Lion & mouse,6,rec2,194,0,0,JC,JC,bilingMandarin
+Stephanie,IPS1_S62,,Father & sons,7,rec1,180,12,6.67,JC,JC,bilingMandarin
+Stephanie,IPS1_S62,,Father & sons,7,rec2,180,4,2.22,JC,JC,bilingMandarin
+Stephanie,IPS1_S62,,Cat video,8,rec1,267,31,11.61,JC,JC,bilingMandarin

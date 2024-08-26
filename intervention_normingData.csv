@@ -1,0 +1,257 @@
+Subject,story,trial,total words,Words missed,in %,Coder
+IN01,Ashley & psychics,1,302,53,18.0,SB
+IN01,Rabbit's thesis,2,361,5,1.0,SB
+IN01,Lion & mouse,3,219,31,14.0,SB
+IN01,Shepherd boy & wolf,4,268,1,0.0,SB
+IN01,Man vs. monkeys,5,324,0,0.0,SB
+IN01,Tim's brilliant career,6,282,0,0.0,SB
+IN01,Father & sons,7,189,4,2.0,SB
+IN01,Cat Videos,8,291,0,0.0,SB
+IN02,Cat Videos,1,291,3,1.0,SB
+IN02,Father & sons,2,189,0,0.0,SB
+IN02,Tim's brilliant career,3,282,1,0.0,SB
+IN02,Man vs. monkeys,4,324,1,0.0,SB
+IN02,Shepherd boy & wolf,5,268,4,1.0,SB
+IN02,Lion & mouse,6,219,0,0.0,SB
+IN02,Rabbit's thesis,7,361,0,0.0,SB
+IN02,Ashley & psychics,8,302,2,1.0,SB
+IN03,Man vs. monkeys,1,324,12,4.0,SB
+IN03,Ashley & psychics,2,302,2,1.0,SB
+IN03,Father & sons,3,189,2,1.0,SB
+IN03,Rabbit's thesis,4,361,1,0.0,SB
+IN03,Lion & mouse,5,219,2,1.0,SB
+IN03,Cat Videos,6,291,1,0.0,SB
+IN03,Tim's brilliant career,7,282,2,1.0,SB
+IN03,Shepherd boy & wolf,8,268,1,0.0,SB
+IN04,Shepherd boy & wolf,1,268,30,11.0,JC
+IN04,Tim's brilliant career,2,282,13,5.0,JC
+IN04,Cat Videos,3,291,5,2.0,JC
+IN04,Lion & mouse,4,219,7,3.0,JC
+IN04,Rabbit's thesis,5,361,8,2.0,JC
+IN04,Father & sons,6,189,4,2.0,JC
+IN04,Ashley & psychics,7,302,2,1.0,JC
+IN04,Man vs. monkeys,8,324,14,4.0,JC
+IN05,Lion & mouse,1,219,35,16.0,JC
+IN05,Man vs. monkeys,2,324,17,5.0,JC
+IN05,Shepherd boy & wolf,3,268,35,13.0,JC
+IN05,Ashley & psychics,4,302,51,17.0,JC
+IN05,Father & sons,5,189,7,4.0,JC
+IN05,Rabbit's thesis,6,361,46,13.0,JC
+IN05,Cat Videos,7,291,11,3.0,JC
+IN05,Tim's brilliant career,8,282,16,6.0,JC
+IN06,Tim's brilliant career,1,282,,0.0,JC
+IN06,Cat Videos,2,291,,0.0,JC
+IN06,Rabbit's thesis,3,361,,0.0,JC
+IN06,Father & sons,4,189,,0.0,JC
+IN06,Ashley & psychics,5,302,,0.0,JC
+IN06,Shepherd boy & wolf,6,268,,0.0,JC
+IN06,Man vs. monkeys,7,324,,0.0,JC
+IN06,Lion & mouse,8,219,,0.0,JC
+IN07,Rabbit's thesis,1,361,14,4.0,JC
+IN07,Lion & mouse,2,219,5,2.0,JC
+IN07,Man vs. monkeys,3,324,21,6.0,JC
+IN07,Cat Videos,4,291,,,JC
+IN07,Tim's brilliant career,5,282,5,2.0,JC
+IN07,Ashley & psychics,6,302,15,5.0,JC
+IN07,Shepherd boy & wolf,7,268,2,1.0,JC
+IN07,Father & sons,8,189,2,1.0,JC
+IN08,Father & sons,1,189,33,17.0,JC
+IN08,Shepherd boy & wolf,2,268,55,21.0,JC
+IN08,Ashley & psychics,3,302,43,14.0,JC
+IN08,Tim's brilliant career,4,282,38,13.0,JC
+IN08,Cat Videos,5,291,38,13.0,JC
+IN08,Man vs. monkeys,6,324,70,22.0,JC
+IN08,Lion & mouse,7,219,44,20.0,JC
+IN08,Rabbit's thesis,8,361,62,17.0,JC
+IN09,Tim's brilliant career,1,282,10,4.0,JC
+IN09,Cat Videos,2,291,4,1.0,JC
+IN09,Rabbit's thesis,3,361,1,0.0,JC
+IN09,Father & sons,4,189,0,0.0,JC
+IN09,Ashley & psychics,5,302,4,1.0,JC
+IN09,Shepherd boy & wolf,6,268,2,1.0,JC
+IN09,Man vs. monkeys,7,324,5,2.0,JC
+IN09,Lion & mouse,8,219,3,1.0,JC
+IN10,Father & sons,1,189,0,0.0,JC
+IN10,Shepherd boy & wolf,2,268,0,0.0,JC
+IN10,Ashley & psychics,3,302,4,1.0,JC
+IN10,Tim's brilliant career,4,282,0,0.0,JC
+IN10,Cat Videos,5,291,13,4.0,JC
+IN10,Man vs. monkeys,6,324,5,2.0,JC
+IN10,Lion & mouse,7,219,15,7.0,JC
+IN10,Rabbit's thesis,8,361,20,6.0,JC
+IN11,Ashley & psychics,1,302,6,2.0,JC
+IN11,Tim's brilliant career,2,282,0,0.0,JC
+IN11,Shepherd boy & wolf,3,268,5,2.0,JC
+IN11,Lion & mouse,4,219,0,0.0,JC
+IN11,Man vs. monkeys,5,324,0,0.0,JC
+IN11,Father & sons,6,189,0,0.0,JC
+IN11,Rabbit's thesis,7,361,0,0.0,JC
+IN11,Cat Videos,8,291,0,0.0,JC
+IN12,Cat Videos,1,291,15,5.0,JC
+IN12,Rabbit's thesis,2,361,0,0.0,JC
+IN12,Father & sons,3,189,0,0.0,JC
+IN12,Man vs. monkeys,4,324,0,0.0,JC
+IN12,Lion & mouse,5,219,0,0.0,JC
+IN12,Shepherd boy & wolf,6,268,0,0.0,JC
+IN12,Tim's brilliant career,7,282,0,0.0,JC
+IN12,Ashley & psychics,8,302,0,0.0,JC
+IN13,Man vs. monkeys,1,324,81,25.0,JC
+IN13,Cat Videos,2,291,84,29.0,JC
+IN13,Lion & mouse,3,219,57,26.0,JC
+IN13,Rabbit's thesis,4,361,82,23.0,JC
+IN13,Tim's brilliant career,5,282,76,27.0,JC
+IN13,Ashley & psychics,6,302,108,36.0,JC
+IN13,Shepherd boy & wolf,7,268,74,28.0,JC
+IN13,Father & sons,8,189,48,25.0,JC
+IN14,Father & sons,1,189,20,11.0,JC
+IN14,Shepherd boy & wolf,2,268,20,7.0,JC
+IN14,Ashley & psychics,3,302,11,4.0,JC
+IN14,Tim's brilliant career,4,282,31,11.0,JC
+IN14,Rabbit's thesis,5,361,16,4.0,JC
+IN14,Lion & mouse,6,219,6,3.0,JC
+IN14,Cat Videos,7,291,1,0.0,JC
+IN14,Man vs. monkeys,8,324,0,0.0,JC
+IN15,Lion & mouse,1,219,4,2.0,SB
+IN15,Ashley & psychics,2,302,19,6.0,SB
+IN15,Shepherd boy & wolf,3,268,5,2.0,SB
+IN15,Cat Videos,4,291,1,0.0,SB
+IN15,Father & sons,5,189,1,1.0,SB
+IN15,Man vs. monkeys,6,324,6,2.0,SB
+IN15,Rabbit's thesis,7,361,1,0.0,SB
+IN15,Tim's brilliant career,8,282,2,1.0,SB
+IN16,Lion & mouse,1,219,0,0.0,SB
+IN16,Tim's brilliant career,2,282,3,1.0,SB
+IN16,Rabbit's thesis,3,361,1,0.0,SB
+IN16,Father & sons,4,189,0,0.0,SB
+IN16,Man vs. monkeys,5,324,0,0.0,SB
+IN16,Cat Videos,6,291,0,0.0,SB
+IN16,Shepherd boy & wolf,7,268,0,0.0,SB
+IN16,Ashley & psychics,8,302,,,SB
+IN17,Man vs. monkeys,1,324,28,9.0,SB
+IN17,Cat Videos,2,291,34,12.0,SB
+IN17,Lion & mouse,3,219,32,15.0,SB
+IN17,Rabbit's thesis,4,361,23,6.0,SB
+IN17,Tim's brilliant career,5,282,8,3.0,SB
+IN17,Ashley & psychics,6,302,39,13.0,SB
+IN17,Shepherd boy & wolf,7,268,40,15.0,SB
+IN17,Father & sons,8,189,8,4.0,SB
+IN18,Tim's brilliant career,1,282,18,6.0,SB
+IN18,Cat Videos,2,291,3,1.0,SB
+IN18,Shepherd boy & wolf,3,268,2,1.0,SB
+IN18,Man vs. monkeys,4,324,5,2.0,SB
+IN18,Lion & mouse,5,219,0,0.0,SB
+IN18,Father & sons,6,189,0,0.0,SB
+IN18,Ashley & psychics,7,302,0,0.0,SB
+IN18,Rabbit's thesis,8,361,1,0.0,SB
+IN19,Rabbit's thesis,1,361,150,42.0,JC
+IN19,Lion & mouse,2,219,99,45.0,JC
+IN19,Father & sons,3,189,93,49.0,JC
+IN19,Ashley & psychics,4,302,,0.0,JC
+IN19,Shepherd boy & wolf,5,268,,0.0,JC
+IN19,Tim's brilliant career,6,282,,0.0,JC
+IN19,Man vs. monkeys,7,324,,0.0,JC
+IN19,Cat Videos,8,291,,0.0,JC
+IN20,Shepherd boy & wolf,1,268,6,2.0,JC
+IN20,Rabbit's thesis,2,361,0,0.0,JC
+IN20,Tim's brilliant career,3,282,0,0.0,JC
+IN20,Cat Videos,4,291,0,0.0,JC
+IN20,Ashley & psychics,5,302,0,0.0,JC
+IN20,Man vs. monkeys,6,324,0,0.0,JC
+IN20,Father & sons,7,189,1,1.0,JC
+IN20,Lion & mouse,8,219,1,0.0,JC
+IN21,Lion & mouse,1,219,13,6.0,SB
+IN21,Father & sons,2,189,10,5.0,SB
+IN21,Man vs. monkeys,3,324,1,0.0,SB
+IN21,Ashley & psychics,4,302,10,3.0,SB
+IN21,Cat Videos,5,291,6,2.0,SB
+IN21,Tim's brilliant career,6,282,6,2.0,SB
+IN21,Rabbit's thesis,7,361,9,2.0,SB
+IN21,Shepherd boy & wolf,8,268,19,7.0,SB
+IN22,Cat Videos,1,291,,0.0,JC
+IN22,Shepherd boy & wolf,2,268,3,1.0,JC
+IN22,Ashley & psychics,3,302,0,0.0,JC
+IN22,Lion & mouse,4,219,0,0.0,JC
+IN22,Father & sons,5,189,0,0.0,JC
+IN22,Rabbit's thesis,6,361,1,0.0,JC
+IN22,Tim's brilliant career,7,282,3,1.0,JC
+IN22,Man vs. monkeys,8,324,5,2.0,JC
+IN23,Ashley & psychics,1,302,28,9.0,SB
+IN23,Man vs. monkeys,2,324,12,4.0,SB
+IN23,Shepherd boy & wolf,4,268,0,0.0,SB
+IN23,Rabbit's thesis,5,361,4,1.0,SB
+IN23,Father & sons,6,189,6,3.0,SB
+IN23,Lion & mouse,7,219,4,2.0,SB
+IN23,Tim's brilliant career,8,282,7,2.0,SB
+IN23,Cat Videos,3,291,,,SB
+IN24,Tim's brilliant career,1,282,72,26.0,JC
+IN24,Lion & mouse,2,219,14,6.0,JC
+IN24,Father & sons,3,189,3,2.0,JC
+IN24,Rabbit's thesis,4,361,3,1.0,JC
+IN24,Shepherd boy & wolf,5,268,17,6.0,JC
+IN24,Cat Videos,6,291,2,1.0,JC
+IN24,Man vs. monkeys,7,324,3,1.0,JC
+IN24,Ashley & psychics,8,302,1,0.0,JC
+IN25,Rabbit's thesis,1,361,144,40.0,JC
+IN25,Father & sons,2,189,53,28.0,JC
+IN25,Cat Videos,3,291,72,25.0,JC
+IN25,Ashley & psychics,4,302,98,32.0,JC
+IN25,Shepherd boy & wolf,5,268,53,20.0,JC
+IN25,Tim's brilliant career,6,282,69,24.0,JC
+IN25,Lion & mouse,7,219,51,23.0,JC
+IN25,Man vs. monkeys,8,324,73,23.0,JC
+IN26,Man vs. monkeys,1,324,24,7.0,JC
+IN26,Tim's brilliant career,2,282,2,1.0,JC
+IN26,Rabbit's thesis,3,361,0,0.0,JC
+IN26,Father & sons,4,189,2,1.0,JC
+IN26,Lion & mouse,5,219,18,8.0,JC
+IN26,Cat Videos,6,291,0,0.0,JC
+IN26,Ashley & psychics,7,302,3,1.0,JC
+IN26,Shepherd boy & wolf,8,268,3,1.0,JC
+IN27,Cat Videos,1,291,130,45.0,JC
+IN27,Lion & mouse,2,219,28,13.0,JC
+IN27,Man vs. monkeys,3,324,19,6.0,JC
+IN27,Shepherd boy & wolf,4,268,25,9.0,JC
+IN27,Ashley & psychics,5,302,10,3.0,JC
+IN27,Rabbit's thesis,6,361,35,10.0,JC
+IN27,Father & sons,7,189,19,10.0,JC
+IN27,Tim's brilliant career,8,282,3,1.0,JC
+IN28,Shepherd boy & wolf,1,268,22,8.2,JC
+IN28,Man vs. monkeys,2,324,25,7.7,JC
+IN28,Tim's brilliant career,3,282,3,1.1,JC
+IN28,Lion & mouse,4,219,19,8.7,JC
+IN28,Rabbit's thesis,5,361,16,4.4,JC
+IN28,Father & sons,6,189,3,1.6,JC
+IN28,Ashley & psychics,7,302,10,3.3,JC
+IN28,Cat Videos,8,291,9,3.1,JC
+IN29,Ashley & psychics,1,302,58,19.2,JC
+IN29,Tim's brilliant career,2,282,7,2.5,JC
+IN29,Rabbit's thesis,3,361,0,0.0,JC
+IN29,Cat Videos,4,291,1,0.3,JC
+IN29,Father & sons,5,189,4,2.1,JC
+IN29,Lion & mouse,6,219,0,0.0,JC
+IN29,Man vs. monkeys,7,324,0,0.0,JC
+IN29,Shepherd boy & wolf,8,268,9,3.4,JC
+IN30,Shepherd boy & wolf,1,268,15,5.6,JC
+IN30,Ashley & psychics,2,302,0,0.0,JC
+IN30,Cat Videos,3,291,0,0.0,JC
+IN30,Tim's brilliant career,4,282,0,0.0,JC
+IN30,Man vs. monkeys,5,324,1,0.3,JC
+IN30,Rabbit's thesis,6,361,1,0.3,JC
+IN30,Father & sons,7,189,0,0.0,JC
+IN30,Lion & mouse,8,219,3,1.4,JC
+IN31,Father & sons,1,189,20,10.6,JC
+IN31,Rabbit's thesis,2,361,36,10.0,JC
+IN31,Man vs. monkeys,3,324,15,4.6,JC
+IN31,Cat Videos,4,291,18,6.2,JC
+IN31,Tim's brilliant career,5,282,16,5.7,JC
+IN31,Ashley & psychics,6,302,20,6.6,JC
+IN31,Shepherd boy & wolf,7,268,32,11.9,JC
+IN31,Lion & mouse,8,219,20,9.1,JC
+IN32,Rabbit's thesis,1,361,4,1.1,JC
+IN32,Ashley & psychics,2,302,2,0.7,JC
+IN32,Tim's brilliant career,3,282,0,0.0,JC
+IN32,Man vs. monkeys,4,324,11,3.4,JC
+IN32,Lion & mouse,5,219,0,0.0,JC
+IN32,Shepherd boy & wolf,6,268,8,3.0,JC
+IN32,Cat Videos,7,291,14,4.8,JC
+IN32,Father & sons,8,189,1,0.5,JC

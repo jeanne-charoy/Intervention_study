@@ -1,0 +1,232 @@
+---
+title: "Norming"
+author: "Jeanne"
+date: "August 26, 2024"
+output: html_document
+---
+##NORMING THE STORIES FOR STUDY 1 (INTERVENTION STUDY)
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+library(dplyr)
+library(plyr)
+library(lme4)
+library(lmerTest)
+```
+
+```{r, echo = FALSE}
+
+##loading the spreadsheet
+normingData<-read.csv("intervention_normingData.csv", header=T,sep=",")
+
+##renaming the columns
+names(normingData)<-c("Subject", "Story","trial","totalWords","missed","percent","Coder")
+
+##Make subject, list, story, trial, recording, and coder FACTORS
+normingData$Subject<- factor(normingData$Subject)
+normingData$Story<-factor(normingData$Story)
+normingData$Coder<-factor(normingData$Coder)
+
+##taking out IN06, and IN13 (non native speaker) and IN19 (did not do the task)   
+normingData<-normingData[!normingData$Subject %in% c("IN06", "IN13", "IN19"),]
+normingData$Subject<-factor(normingData$Subject)
+
+##taking out rows that have empty cells (e.g. when a story was not play, missing data)
+normingData.noNa<-na.omit(normingData)
+
+(unique(normingData$Subject))
+
+```
+
+##Number of times each story appears in each position (from trial 1 to trial 8)   
+This is the count without the missing data 
+All stories appeared at least 2 times in each position (actually 3 for 7 stories out of 8) and at most 5 times. 
+
+```{r, echo=FALSE}
+ddply(normingData.noNa, .(Story,trial), summarise, number = length(unique(Subject)))
+
+
+table(normingData.noNa$Story, normingData.noNa$trial)
+```
+
+
+##Mean percent word missed per subject
+
+```{r, echo=FALSE}
+##measures the mean percent of words missed for each subject + also the standard deviation
+mean_subject<-aggregate(percent~Subject, normingData.noNa, FUN="mean")
+sd_subjects <- aggregate(percent~Subject, normingData.noNa, FUN="sd")
+
+
+##Calculate min and max percent missed, store in data frame
+mins<-tapply(normingData.noNa$percent, normingData.noNa$Subject, min)
+maxs<-tapply(normingData.noNa$percent, normingData.noNa$Subject, max)
+
+##Add mins and maxs to mean_subject
+mean_subject$min<-mins
+mean_subject$max<-maxs
+
+```
+
+##Plot of all subjects' mean scores  
+The red line is the overall means. Each bar represents a subject 
+```{r, echo=FALSE}
+ggplot(mean_subject, aes(Subject, percent))+
+  geom_bar(stat = "identity", position="dodge")+
+  geom_hline(yintercept = mean(mean_subject$percent), color="red")+
+  ylim(0,30)+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+
+```{r, echo=FALSE}
+## overall average 
+mean(mean_subject$percent)
+
+## overall SD
+sd(mean_subject$percent)
+
+## overall MIN AND MAX
+min(mean_subject$percent)
+max(mean_subject$percent)
+```
+
+The overall mean percent missed words was 4.65%, SD = 5.85 (so pretty good performance overall)  
+IN25 clearly performed much worse than the other subjects. 
+
+##Mean percent word missed per story  
+Were some stories harder to shadow?  
+
+```{r, echo=FALSE}
+##calculating means, mins and max
+mean_stories<-aggregate(percent~Story, normingData.noNa, FUN="mean")
+mins<-tapply(normingData.noNa$percent, normingData.noNa$Story, min)
+maxs<-tapply(normingData.noNa$percent, normingData.noNa$Story, max)
+
+##put them all in one data frame
+mean_stories$min<-mins
+mean_stories$max<-maxs
+
+##Standard error to the mean
+sd_stories <- aggregate(percent~Story, normingData.noNa, FUN="sd")
+sd_stories$sem<- sd_stories$percent/sqrt(29) ##29 is the number of subjects in the sample. 
+mean_stories$sd<-sd_stories$percent
+mean_stories$sem<-sd_stories$sem
+```
+
+##Plot of mean percent missed per story  
+  
+The blue line represents the overall mean, i.e., 4.7%
+```{r, echo=FALSE}
+#png("norming1_plot.png", units="in", width=8, height=7, res=300)
+
+ggplot(mean_stories, aes(reorder(Story,-percent), percent))+
+  geom_bar(stat = "identity", position="dodge", fill="#F8766D")+
+  geom_hline(yintercept = mean(mean_stories$percent), color="#00BFC4", size = 1)+
+   geom_errorbar(aes(ymin=percent-sem, ymax=percent+sem, shape=Story), width=.2,size=1, position=position_dodge(.9))+
+  theme_minimal(base_size=16)+
+  ylab("% words missed")+
+  xlab("")+
+  ylim(0,10)+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+#dev.off()
+```
+
+##Mean percent missed words per trial
+```{r, echo=FALSE}
+##calculating means, mins and max
+mean_trial<-aggregate(percent~trial, normingData.noNa, FUN="mean")
+mins<-tapply(normingData.noNa$percent, normingData.noNa$trial, min)
+maxs<-tapply(normingData.noNa$percent, normingData.noNa$trial, max)
+
+##Putting everything in one data frame
+mean_trial$min<-mins
+mean_trial$max<-maxs
+
+##Standard error to the mean
+sd_trial <- aggregate(percent~trial,normingData.noNa, FUN="sd")
+sd_trial$sem<- sd_trial$percent/sqrt(25) #there are 25 subjects
+mean_trial$sd<-sd_trial$percent
+mean_trial$sem<-sd_trial$sem
+
+
+mean_trial
+
+#mean_trial$trial<-factor(mean_trial$trial)
+
+```
+##Plot by trial 
+```{r, echo=FALSE}
+ggplot(mean_trial, aes(trial, percent))+
+  geom_bar(stat = "identity", position="dodge")+
+  geom_hline(yintercept = mean(mean_trial$percent), color="red")+
+  ylim(0,20)
+```
+
+
+##GLMER ANALYSIS
+```{r}
+##effect of story on percent word missed
+##percent treated as continuous var non bounded
+
+##trial and Story as a factor
+#normingData.noNa$trial<-factor(normingData.noNa$trial)
+#normingData.noNa$Story<-factor(normingData.noNa$Story)
+
+
+mod1 <- (glmer(missed / totalWords ~ trial+Story +  (1+trial|Subject)+(1+trial|Story), weights = totalWords,
+   family = binomial, data = normingData))
+
+mod2 <- (glmer(missed / totalWords ~ trial +  (1+trial|Subject)+(1+trial|Story), weights = totalWords,
+   family = binomial, data = normingData))
+
+anova(mod1,mod2)
+
+```
+
+There is a significant effect of Story
+
+```{r}
+summary(mod1)
+```
+
+In particular, Ashley and Psychics is harder than Cat Videos, Father & Sons, Rabbit's Thesis and Tim's brilliant career.  
+
+
+```{r}
+##effect of trial? 
+
+
+mod3 <- (glmer(missed / totalWords ~ Story +  (1+trial|Subject)+(1+trial|Story), weights = totalWords,
+   family = binomial, data = normingData))
+
+anova(mod1,mod3)
+```
+
+
+```{r}
+summary(mod1)
+```
+There is also an effect of trial, reflecting a task learning effect 
+
+## ANALYSIS WITHOUT THE FIRST TRIAL
+
+```{r}
+#without Ashley
+normingData_no_first_trial <- normingData.noNa[!normingData.noNa$trial == 1,]
+#normingData_no_first_trial$trial <- as.factor(normingData_no_first_trial$trial)
+
+mod1_no_first_trial <- (glmer(missed / totalWords ~ trial+ Story +  (1+trial|Subject)+(1+trial|Story), weights = totalWords,
+   family = binomial, data = normingData_no_first_trial))
+
+mod2_no_first_trial <- (glmer(missed / totalWords ~ trial +  (1+trial|Subject)+(1+trial|Story), weights = totalWords,
+   family = binomial, data = normingData_no_first_trial))
+
+anova(mod1_no_first_trial,mod2_no_first_trial)
+
+summary(mod1_no_first_trial)
+```
+
+The effect of trial disappears when taking out the first one. 
+
